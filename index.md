@@ -37,7 +37,7 @@ We hope you help us improve and adopt this as a resource to build information in
 
 2-10 [National Information Exchange Model (NIEM)](glossary/) - More I2F tools.
 
-<!--
+
 ----------------
 
 ##3. I2F Tools
@@ -64,7 +64,6 @@ This section is a list of tools and resources for building information interoper
 
 2-10 [Informatino Sharing Environment Standards and Specficiations Framework](glossary/) - More I2F tools.
 
-!-->
 
 ----------------
 
@@ -84,7 +83,7 @@ We have broken the Information Interoperability Framework, or I2F, into componen
 
 ----------------
 
-##4. Use Cases
+##5. Use Cases
 
 Use cases of novel or best practices from agencies who are leading in open data help others understand the challenges and opportunities for success.
 
