@@ -40,7 +40,7 @@ We hope you help us improve and adopt this as a resource to build information in
 
 ----------------
 
-##3. I2F Tools
+##3. Interoperability Framework Tools
 
 This section is a list of tools and resources for building information interoperability. They primarily link to resources within the Information Interoperability Framework document.
 
@@ -67,7 +67,7 @@ This section is a list of tools and resources for building information interoper
 
 ----------------
 
-##4. Component Sections of I3F
+##4. Component Sections of ISE Information Interoperability Framework Document
 
 We have broken the Information Interoperability Framework, or I2F, into components so that we can collaborate with you, our stakeholders and partners, to edit and improve it. You can [download the I2F PDF](http://ise.gov), as it was approved by the ISA IPC on (date). The content in this project may differ from the PDF because it is a work in progress only based on the I2F PDF.
 
