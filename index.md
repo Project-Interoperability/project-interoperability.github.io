@@ -84,9 +84,11 @@ We have broken the Information Interoperability Framework, or I2F, into componen
 
 ----------------
 
-##4. Case Studies
+##4. Use Cases
 
-Case studies of novel or best practices from agencies who are leading in open data help others understand the challenges and opportunities for success.
+Use cases of novel or best practices from agencies who are leading in open data help others understand the challenges and opportunities for success.
+
+(Use cases should illustrate best practice applications of interoperability tools to support mission outcomes. For example, the statewide ISEs are using exchange patterns to enable data set exchange and usage. This means that a local law enforcement agency can easily broadcast an Amber Alert message not only to police officers on the street but also to the general public, relevant federal agencies, and local businesses. The format should be an actor did something to accomplish a goal.)
 
 6-1 [Department of Labor API Program](labor-case-study/) - A department perspective on developing APIs for general use and, in particular, building the case for an ecosystem of users by developing SDKs.
 
