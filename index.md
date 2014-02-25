@@ -10,7 +10,17 @@ title: Project Interoperability
 
 IMPORTANT: THIS IS A DRAFT. LARGE PARTS OF THIS PROJECT ARE UNDER CONSTRUCTION AND MAY REFER BACK TO PROJECT OPEN DATA THROUGHOUT THE MONTH OF MARCH.
 
+This is a set-up guide for information interoperability.
+
+Information interoperability is the ability to transfer and use information in a consistent, efficient way across multiple organizations and IT systems. From a technical perspective, interoperability is fostered through the consistent application of design principles and design standards to address a specific mission problem. 
+
+Information interoperability is important because it increases timely information sharing, can reduce costs and redundancy, and reveal best practices in government. This improves decisionmaking for government leaders.
+
+The goal of Project Interoperability is to help government and non-government organizations identify a baseline of terms, tools and techniques to create an information sharing network in agnostic terms and for any type of information sharing. We are trying to normalize the way information sharing technology is developed. We want to achieve a connected government.
+
 We hope you help us improve and adopt this as a resource to build information interoperability throught the Information Sharing Environment. Learn more about us at [ISE.gov](http://ise.gov).
+
+Learn more about the [federal authorities](http://ise.gov) related to this project.
 
 ----------------
 
