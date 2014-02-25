@@ -30,30 +30,30 @@ These are the top most important tools for building information interoperability
 
 2-1 [Common Profile](principles/) - This is the common profile.
 
-2-2 [Springboard](open-standards/) - More I2F tools.   
+2-2 [Springboard](open-standards/) - More I3F tools.   
 
-2-3 [Architecture Alignment](glossary/) - More I2F tools.
+2-3 [Architecture Alignment](glossary/) - More I3F tools.
 
-2-4 [Maturity Model](open-licenses/) - More I2F tools.
+2-4 [Maturity Model](open-licenses/) - More I3F tools.
 
-2-5 [Reference Architecture Template](schema/) - More I2F tools.
+2-5 [Reference Architecture Template](schema/) - More I3F tools.
 
-2-6 [Geospatial Interoperability](glossary/) - More I2F tools.
+2-6 [Geospatial Interoperability](glossary/) - More I3F tools.
 
-2-7 [Attribute Exchange](glossary/) - More I2F tools.
+2-7 [Attribute Exchange](glossary/) - More I3F tools.
 
-2-8 [Identity and Access Management](glossary/) - More I2F tools.
+2-8 [Identity and Access Management](glossary/) - More I3F tools.
 
-2-9 [Exchange Patterns](glossary/) - More I2F tools.
+2-9 [Exchange Patterns](glossary/) - More I3F tools.
 
-2-10 [National Information Exchange Model (NIEM)](glossary/) - More I2F tools.
+2-10 [National Information Exchange Model (NIEM)](glossary/) - More I3F tools.
 
 
 ----------------
 
 ##3. ISE Information Interoperability Framework (I3F) Tools
 
-We have broken out the most useful tools and guidance of the Information Interoperability Framework, or I3F. We want to collaborate with you, our stakeholders and partners, to edit and improve it. You can also [download the I2F PDF](http://ise.gov), as it was approved by the ISA IPC on (date). The content in this project may differ from the PDF because it is a work in progress only based on the I2F PDF.
+We have broken out the most useful tools and guidance of the Information Interoperability Framework, or I3F. We want to collaborate with you, our stakeholders and partners, to edit and improve it. You can also [download the I3F PDF](http://ise.gov), as it was approved by the ISA IPC on (date). The content in this project may differ from the PDF because it is a work in progress only based on the I2F PDF.
 
 3-1 [Interoperabiilty Objectives and Usage](principles/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -65,15 +65,15 @@ We have broken out the most useful tools and guidance of the Information Interop
 
 3-5 [Exchange Patterns](schema/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-3-6 [Architecture Framework Alignment](glossary/) - More I2F tools.
+3-6 [Architecture Framework Alignment](glossary/) - More I3F tools.
 
 3-7 [Building Interoperability into Mission-based Architectures](glossary/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 3-8 [Building Interoperability into Mission-based Architectures](glossary/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-3-9 [Information Sharing Environment Common Profile Usage](glossary/) - More I2F tools.
+3-9 [Information Sharing Environment Common Profile Usage](glossary/) - More I3F tools.
 
-3-10 [Informatino Sharing Environment Standards and Specficiations Framework](glossary/) - More I2F tools.
+3-10 [Informatino Sharing Environment Standards and Specficiations Framework](glossary/) - More I3F tools.
 
 ----------------
 
@@ -96,6 +96,3 @@ Use cases of novel or best practices from agencies who are leading in open data 
 6-7 [Et harum quidem rerum](http://developer.nrel.gov/api-case-study/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
 6-8 [Quis autem vel eum](http://transition.usaid.gov/our_work/economic_growth_and_trade/development_credit/pdfs/2012/USAIDCrowdsourcingCaseStudy.pdf) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
-
-**For Developers: [View all appendices](http://github.com/project-open-data/) (and source)**
