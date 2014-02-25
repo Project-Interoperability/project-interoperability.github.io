@@ -6,9 +6,9 @@ filename: index.md
 title: Project Interoperability
 ---
 
-##1. Background
-
 IMPORTANT: THIS IS A DRAFT. LARGE PARTS OF THIS PROJECT ARE UNDER CONSTRUCTION AND MAY REFER BACK TO PROJECT OPEN DATA THROUGHOUT THE MONTH OF MARCH.
+
+##1. Background
 
 This is a set-up guide for information interoperability.
 
