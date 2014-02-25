@@ -81,23 +81,21 @@ We have broken out the most useful tools and guidance of the Information Interop
 
 Use cases of novel or best practices from agencies who are leading in open data help others understand the challenges and opportunities for success.
 
-(Use cases should illustrate best practice applications of interoperability tools to support mission outcomes. For example, the statewide ISEs are using exchange patterns to enable data set exchange and usage. This means that a local law enforcement agency can easily broadcast an Amber Alert message not only to police officers on the street but also to the general public, relevant federal agencies, and local businesses. The format should be an actor did something to accomplish a goal.)
+6-1 [New Jersey ISE](labor-case-study/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
-6-1 [Department of Labor API Program](labor-case-study/) - A department perspective on developing APIs for general use and, in particular, building the case for an ecosystem of users by developing SDKs.
+6-2 [Department of Transportation Enterprise Data Inventory](transportation-case-study/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
-6-2 [Department of Transportation Enterprise Data Inventory](transportation-case-study/) - A review of DOT's strategy and policy when creating a robust data inventory program.  
+6-3 [Disaster Assistance Program Coordination](fema-case-study/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
-6-3 [Disaster Assistance Program Coordination](fema-case-study/) - The coordinated campaign led by FEMA has integrated a successful data exchange among 16 agencies to coordinate an important public service.  
+6-4 [Environmental Protection Agency Central Data Exchange](epa-case-study/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
 
-6-4 [Environmental Protection Agency Central Data Exchange](epa-case-study/) - The agency's data exchange provides a model for programs that seek to coordinate the flow of data among industry, state, local, and tribal entities.  
+6-5 [FederalRegister.gov API](https://www.federalregister.gov/uploads/2012/11/FR2-API-Case-Study1.pdf) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
-6-5 [FederalRegister.gov API](https://www.federalregister.gov/uploads/2012/11/FR2-API-Case-Study1.pdf) - A core government program update that has grown into an important public service.
+6-6 [National Broadband Map](http://www.scribd.com/doc/109998799/The-National-Broadband-Map-A-Case-Study-on-Open-Innovation-for-National-Policy) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
-6-6 [National Broadband Map](http://www.scribd.com/doc/109998799/The-National-Broadband-Map-A-Case-Study-on-Open-Innovation-for-National-Policy) - The National Broadband Map, a case study on open innovation for national policy.  Produced by the [Wilson Center](http://www.wilsoncenter.org/).
+6-7 [National Renewable Energy Laboratory API program](http://developer.nrel.gov/api-case-study/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
-6-7 [National Renewable Energy Laboratory API program](http://developer.nrel.gov/api-case-study/) - An agency perspective on developing APIs for general use and in particular building the case for the internal re-use of the resources.
-
-6-8 [USAID Crowdsourcing to Open Data](http://transition.usaid.gov/our_work/economic_growth_and_trade/development_credit/pdfs/2012/USAIDCrowdsourcingCaseStudy.pdf) - A case study that shows how USAID invited the "crowd" to clean and geocode a USAID dataset in order to open and map the data.
+6-8 [USAID Crowdsourcing to Open Data](http://transition.usaid.gov/our_work/economic_growth_and_trade/development_credit/pdfs/2012/USAIDCrowdsourcingCaseStudy.pdf) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
 
 **For Developers: [View all appendices](http://github.com/project-open-data/) (and source)**
