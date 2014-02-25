@@ -26,22 +26,23 @@ Learn more about the [federal authorities](http://ise.gov) related to this proje
 
 ##2. Interoperability Tools
 
+These are the top most important tools for building information interoperability. Learn more in an overview about [how you can use these tools](http://ise.gov).
 
-2-1 [Common Profile](principles/) - This is a guideline for system architects.
+2-1 [Common Profile](principles/) - This is the common profile.
 
-2-2 [Springboard](open-standards/) - Standards, specifications, and formats supporting open data objectives.   
+2-2 [Springboard](open-standards/) - More I2F tools.   
 
-2-3 [Architecture Alignment](glossary/) - The glossary of open data terms.
+2-3 [Architecture Alignment](glossary/) - More I2F tools.
 
-2-4 [Maturity Model](open-licenses/) - The definition for open licenses. 
+2-4 [Maturity Model](open-licenses/) - More I2F tools.
 
-2-5 [Reference Architecture Template](schema/) - The schema used to describe datasets, APIs, and published data at agency.gov/data. 
+2-5 [Reference Architecture Template](schema/) - More I2F tools.
 
 2-6 [Geospatial Interoperability](glossary/) - More I2F tools.
 
-2-7 [Attribute Exchange](glossary/) - Review Reference Architecture and Assess
+2-7 [Attribute Exchange](glossary/) - More I2F tools.
 
-2-8 [Identity and Access Management](glossary/) - Vet Reference Architecture and Build in Information Interoperability
+2-8 [Identity and Access Management](glossary/) - More I2F tools.
 
 2-9 [Exchange Patterns](glossary/) - More I2F tools.
 
@@ -50,50 +51,33 @@ Learn more about the [federal authorities](http://ise.gov) related to this proje
 
 ----------------
 
-##3. Interoperability Framework Tools
+##3. ISE Information Interoperability Framework (I3F) Tools
 
-This section is a list of tools and resources for building information interoperability. They primarily link to resources within the Information Interoperability Framework document.
+We have broken out the most useful tools and guidance of the Information Interoperability Framework, or I3F. We want to collaborate with you, our stakeholders and partners, to edit and improve it. You can also [download the I2F PDF](http://ise.gov), as it was approved by the ISA IPC on (date). The content in this project may differ from the PDF because it is a work in progress only based on the I2F PDF.
 
-2-1 [Interoperabiilty Objectives and Usage](principles/) - This is a guideline for system architects.
+3-1 [Interoperabiilty Objectives and Usage](principles/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-2-2 [Vision and Sustainability](open-standards/) - Standards, specifications, and formats supporting open data objectives.   
+3-2 [Vision and Sustainability](open-standards/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-2-3 [ISE Information Integrated Landscape](glossary/) - The glossary of open data terms.
+3-3 [ISE Information Integrated Landscape](glossary/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-2-4 [ISE Information Interoperability Framework](open-licenses/) - The definition for open licenses. 
+3-4 [ISE Information Interoperability Framework](open-licenses/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-2-5 [Exchange Patterns](schema/) - The schema used to describe datasets, APIs, and published data at agency.gov/data. 
+3-5 [Exchange Patterns](schema/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-2-6 [Architecture Framework Alignment](glossary/) - More I2F tools.
+3-6 [Architecture Framework Alignment](glossary/) - More I2F tools.
 
-2-7 [Building Interoperability into Mission-based Architectures](glossary/) - Review Reference Architecture and Assess
+3-7 [Building Interoperability into Mission-based Architectures](glossary/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-2-8 [Building Interoperability into Mission-based Architectures](glossary/) - Vet Reference Architecture and Build in Information Interoperability
+3-8 [Building Interoperability into Mission-based Architectures](glossary/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-2-9 [Information Sharing Environment Common Profile Usage](glossary/) - More I2F tools.
+3-9 [Information Sharing Environment Common Profile Usage](glossary/) - More I2F tools.
 
-2-10 [Informatino Sharing Environment Standards and Specficiations Framework](glossary/) - More I2F tools.
-
-
-----------------
-
-##4. Component Sections of ISE Information Interoperability Framework Document
-
-We have broken the Information Interoperability Framework, or I2F, into components so that we can collaborate with you, our stakeholders and partners, to edit and improve it. You can [download the I2F PDF](http://ise.gov), as it was approved by the ISA IPC on (date). The content in this project may differ from the PDF because it is a work in progress only based on the I2F PDF.
-
-3-1 [Chapter 1](/policy-memo/) - Full text of the memorandum.  
-
-3-2 [Chapter 2](/implementation-guide/) - Official OMB implementation guidance for each step of implementing the policy. 
-
-3-3 [Chapter 3](/catalog/) - The specific guidance for publishing the Open Data Catalog at the agency.gov/data page.  
-
-3-4 [Chapter 4](/faq/) - A growing list of common questions and answers to facilitate adoption of open data projects.  
-
-3-5 [Chapter 5](http://goals.performance.gov/opendata) - Information on the development of the Open Data CAP goal as required in the [Open Data Executive Order](http://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government). 
+3-10 [Informatino Sharing Environment Standards and Specficiations Framework](glossary/) - More I2F tools.
 
 ----------------
 
-##5. Use Cases
+##4. Use Cases
 
 Use cases of novel or best practices from agencies who are leading in open data help others understand the challenges and opportunities for success.
 
