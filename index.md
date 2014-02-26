@@ -53,7 +53,7 @@ These are the top most important tools for building information interoperability
 
 ##3. ISE Information Interoperability Framework (I3F) Tools
 
-We have broken out the most useful tools and guidance of the Information Interoperability Framework, or I3F. We want to collaborate with you, our stakeholders and partners, to edit and improve it. You can also [download the I3F PDF](http://ise.gov), as it was approved by the ISA IPC on (date). The content in this project may differ from the PDF because it is a work in progress only based on the I2F PDF.
+We have broken out the most useful tools and guidance of the Information Interoperability Framework, or I3F. We want to collaborate with you, our stakeholders and partners, to edit and improve it. You can also [download the I3F PDF](http://ise.gov), in its most recent version, V0.5. The content in this project may differ from the PDF because it is a work in progress only based on the I2F PDF.
 
 3-1 [Interoperabiilty Objectives and Usage](principles/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
