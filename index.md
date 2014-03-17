@@ -20,7 +20,7 @@ The goal of Project Interoperability is to help government and non-government or
 
 We hope you help us improve and adopt this as a resource to build information interoperability throught the Information Sharing Environment. Learn more about us at [ISE.gov](http://ise.gov).
 
-Learn more about the [federal authorities](http://ise.gov) related to this project.
+Learn more about the [federal authorities](/) related to this project.
 
 ----------------
 
@@ -95,4 +95,4 @@ Use cases of novel or best practices from agencies who are leading in open data 
 
 6-7 [Et harum quidem rerum](http://developer.nrel.gov/api-case-study/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
-6-8 [Quis autem vel eum](http://transition.usaid.gov/our_work/economic_growth_and_trade/development_credit/pdfs/2012/USAIDCrowdsourcingCaseStudy.pdf) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+6-8 [Quis autem vel eum](http://transition.usaid.gov/our_work/economic_growth_and_trade/development_credit/pdfs/2012/USAIDCrowdsourcingCaseStudy.pdf) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
