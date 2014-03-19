@@ -27,71 +27,32 @@ We hope you help us improve and adopt this as a resource to build information in
 
 These are the top most important tools for building information interoperability. Learn more in an overview about [how you can use these tools](http://ise.gov).
 
-2-1 [Common Profile](/) - This is the common profile.
+2-1 [Common Profile] - This is the common profile.
 
-2-2 [Springboard](/) - More I3F tools.   
+2-2 [Springboard] - More I3F tools.   
 
-2-3 [Architecture Alignment](/) - More I3F tools.
+2-3 [Architecture Alignment] - More I3F tools.
 
-2-4 [Maturity Model](/) - More I3F tools.
+2-4 [Maturity Model] - More I3F tools.
 
-2-5 [Reference Architecture Template](/) - More I3F tools.
+2-5 [Reference Architecture Template] - More I3F tools.
 
-2-6 [Geospatial Interoperability](/) - More I3F tools.
+2-6 [Geospatial Interoperability] - More I3F tools.
 
-2-7 [Attribute Exchange](/) - More I3F tools.
+2-7 [Attribute Exchange] - More I3F tools.
 
-2-8 [Identity and Access Management](/) - More I3F tools.
+2-8 [Identity and Access Management] - More I3F tools.
 
-2-9 [Exchange Patterns](/) - More I3F tools.
+2-9 [Exchange Patterns] - More I3F tools.
 
-2-10 [National Information Exchange Model (NIEM)](/) - More I3F tools.
+2-10 [National Information Exchange Model (NIEM)] - More I3F tools.
 
-
-----------------
-
-##3. ISE Information Interoperability Framework (I3F) Tools
-
-We have broken out the most useful tools and guidance of the Information Interoperability Framework, or I3F. We want to collaborate with you, our stakeholders and partners, to edit and improve it. You can also [download the I3F PDF](/), in its most recent version, V0.5. The content in this project may differ from the PDF because it is a work in progress only based on the I2F PDF.
-
-3-1 [Interoperabiilty Objectives and Usage](/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-3-2 [Vision and Sustainability](/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-3-3 [ISE Information Integrated Landscape](/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-3-4 [ISE Information Interoperability Framework](/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-3-5 [Exchange Patterns](/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-3-6 [Architecture Framework Alignment](/) - More I3F tools.
-
-3-7 [Building Interoperability into Mission-based Architectures](/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-3-8 [Building Interoperability into Mission-based Architectures](/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-3-9 [Information Sharing Environment Common Profile Usage](/) - More I3F tools.
-
-3-10 [Informatino Sharing Environment Standards and Specficiations Framework](/) - More I3F tools.
+2-11 [ISE Information Interoperability Framework (I3F)] - We have broken out the most useful tools and guidance of the Information Interoperability Framework, or I3F. We want to collaborate with you, our stakeholders and partners, to edit and improve it. You can also download the I3F PDF(coming soon), in its most recent version, V0.5. The content in this project may differ from the PDF because it is a work in progress only based on the I2F PDF.
 
 ----------------
 
-##4. Use Cases
+##3. Use Cases
 
 Use cases of novel or best practices from agencies who are leading in open data help others understand the challenges and opportunities for success.
 
-6-1 [New Jersey ISE](/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
-6-2 [Sed ut perspiciatis](/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
-6-3 [At vero eos et accusamus](/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
-6-4 [Nemo enim ipsam](/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-
-6-5 [Nam libero tempore](/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
-6-6 [Temporibus autem quibusdam](/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
-6-7 [Et harum quidem rerum](/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
-6-8 [Quis autem vel eum](/) - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+6-1 [New Jersey ISE] - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
