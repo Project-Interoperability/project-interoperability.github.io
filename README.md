@@ -21,7 +21,7 @@ Project Interoperability can be utilized differently depending on the role you h
 
 ## How to Contribute
 
-We are making this content available on GitHub so that you can share feedback and suggestions for improving these tools and resources.  If you are new to GitHub, you should check out our guide to [contributing](/contributing/). Any other questions? Reach out to us by [creating an issue](https://github.com/Project-Interoperability/project-interoperability.github.io/issues/new) or [sending us a message](http://ise.gov/contact).
+We are making this content available on GitHub so that you can share feedback and suggestions for improving these tools and resources.  If you are new to GitHub, you should check out our guide to [contributing]( http://project-interoperability.github.io/contributing/). Any other questions? Reach out to us by [creating an issue](https://github.com/Project-Interoperability/project-interoperability.github.io/issues/new) or [sending us a message](http://ise.gov/contact).
 
 This project constitutes a collaborative work ("open source"). Federal employees and members of the public are encouraged to improve the project by contributing.
 
