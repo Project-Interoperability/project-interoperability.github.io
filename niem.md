@@ -1,8 +1,8 @@
 ---
 published: true
-permalink: /NIEM/
+permalink: /niem/
 layout: default
-filename: NEIM.md
+filename: niem.md
 title: National Information Exchange Model
 ---
 
