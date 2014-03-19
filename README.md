@@ -19,13 +19,11 @@ Project Interoperability can be utilized differently depending on the role you h
 * Private industry: Project Interoperability provides a common language to help industry respond to RFIs and hold conversations with federal customers about their needs. 
 * Architect: When setting up models, schemas, and deciding what standards to apply, Project Interoperability guides decision making around architecture details.
 
-We are making the content available on GitHub so that you can share feedback and suggestions for improving these tools and resources.  If you are new to GitHub, you should check out our guide to [contributing](/contributing/). Any other questions? Reach out to us by creating an issue or [sending us a message](http://ise.gov/contact).
-
 ## How to Contribute
 
-This project constitutes a collaborative work ("open source"). Federal employees and members of the public are encouraged to improve the project by contributing.
+We are making this content available on GitHub so that you can share feedback and suggestions for improving these tools and resources.  If you are new to GitHub, you should check out our guide to [contributing](/contributing/). Any other questions? Reach out to us by [creating an issue](https://github.com/Project-Interoperability/project-interoperability.github.io/issues/new) or [sending us a message](http://ise.gov/contact).
 
-For information on how to contribute, please see the [how to contribute](CONTRIBUTING.md)
+This project constitutes a collaborative work ("open source"). Federal employees and members of the public are encouraged to improve the project by contributing.
 
 ## License
 
