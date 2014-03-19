@@ -12,7 +12,14 @@ We're providing these guidelines and tools to collaborate with our partners to d
 
 ## Where You Come In
 
-Help the United States Government develop information interoperability better by collaborating.  Please suggest enhancements by editing the content here.
+Project Interoperability can be used to access, improve, and use information sharing tools and resources. It uses some of the existing, well known [enterprise architecture frameworks](http://en.wikipedia.org/wiki/Enterprise_architecture_framework) ([TOGAF](http://www.opengroup.org/togaf/), [DoDAF](http://en.wikipedia.org/wiki/Department_of_Defense_Architecture_Framework), [FEAF](http://en.wikipedia.org/wiki/Federal_enterprise_architecture), etc.), and the principles of service-oriented architecture (such as reuse and intrinsic interoperability) to suggest standards, tools, and methodologies to link existing systems. It also specifies the development of common documents and products that will enable disparate departments’ and agencies’ architectures to make the full framework operational.  
+Project Interoperability can be utilized differently depending on the role you have in your organization. Some examples include:
+
+* Program manager or procurement officer: Project Interoperability provides suggestions on what you need to have an interoperable system. It gives a program manager the language they need to describe what they want to aid in more cost-effective and smoother procurement.
+* Private industry: Project Interoperability provides a common language to help industry respond to RFIs and hold conversations with federal customers about their needs. 
+* Architect: When setting up models, schemas, and deciding what standards to apply, Project Interoperability guides decision making around architecture details.
+
+We are making the content available on GitHub so that you can share feedback and suggestions for improving these tools and resources.  If you are new to GitHub, you should check out our guide to [contributing](/contributing/). Any other questions? Reach out to us by creating an issue or [sending us a message](http://ise.gov/contact).
 
 ## How to Contribute
 
