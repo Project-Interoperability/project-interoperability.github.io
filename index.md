@@ -10,8 +10,6 @@ IMPORTANT: THIS IS A DRAFT. LARGE PARTS OF THIS PROJECT ARE UNDER CONSTRUCTION A
 
 ##1. Background
 
-This is a set-up guide for information interoperability.
-
 Project Interoperability is a start-up guide for information interoperability.  The tools and resources presented here are in different levels of maturity, and some of them are even still drafts. They are made available here as a resource for improving information interoperability in and outside of government.
 
 Information interoperability is the ability to transfer and use information in a consistent, efficient way across multiple organizations and IT systems.  From a technical perspective, interoperability is developed through the consistent application of design principles and design standards to address a specific mission problem.
