@@ -29,7 +29,7 @@ These are the top most important tools for building information interoperability
 
 2-1 [Common Profile] - This is the common profile.
 
-2-2 [Springboard] - More I3F tools.   
+2-2 [Springboard](/springboard/) - A sentence about Springboard.
 
 2-3 [Architecture Alignment] - More I3F tools.
 
@@ -39,13 +39,13 @@ These are the top most important tools for building information interoperability
 
 2-6 [Geospatial Interoperability] - More I3F tools.
 
-2-7 [Attribute Exchange] - More I3F tools.
+2-7 [Attribute Exchange](/attribute-exchange/) - A sentence about attribute exchange.
 
-2-8 [Identity and Access Management] - More I3F tools.
+2-8 [Identity and Access Management](/idam/) - A sentence about IdAM.
 
 2-9 [Exchange Patterns] - More I3F tools.
 
-2-10 [National Information Exchange Model (NIEM)](/NIEM/) - A sentence about NIEM.
+2-10 [National Information Exchange Model (NIEM)](/niem/) - A sentence about NIEM.
 
 2-11 [ISE Information Interoperability Framework (I3F)] - We have broken out the most useful tools and guidance of the Information Interoperability Framework, or I3F. We want to collaborate with you, our stakeholders and partners, to edit and improve it. You can also download the I3F PDF(coming soon), in its most recent version, V0.5. The content in this project may differ from the PDF because it is a work in progress only based on the I2F PDF.
 
