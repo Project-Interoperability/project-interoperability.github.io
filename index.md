@@ -18,7 +18,7 @@ Information interoperability is important because it increases timely, responsib
 
 We hope you help us improve and adopt this as a resource to build information interoperability throught the Information Sharing Environment. Learn more about:
 
-* Who we are, what our goals are, and how we expect this project to work
+* [Who we are, what our goals are, and how we expect this project to work](https://github.com/Project-Interoperability/project-interoperability.github.io/blob/master/README.md)
 * The presidential directives, policy documents, strategies, and agency guidelines that inform this project
 
 ----------------
