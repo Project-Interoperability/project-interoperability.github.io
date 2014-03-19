@@ -12,6 +12,16 @@ The goal of Project Interoperability is to help government and non-government or
 
 This project is based on [Project Open Data](http://project-open-data.github.io). Imitation is the sincerest form of flattery.
 
+## Who Are We?
+
+We are the [Office of the Program Manager for the Information Sharing Environment (ISE)](http://www.ise.gov/). We were created in 2004 in response to the 9/11 Commission report. We are the national office charged with advancing responsible for information sharing in support of counterterrorism and homeland security.  We work with federal, state, local, and tribal government partners, and with the private sector and internationally. You can read more about us [here](http://ise.gov/what-ise).
+
+The [Standards Coordinating Council (SCC)](http://www.ise.gov/standards-coordinating-council) is an advisory group made up of standards organizations and industry associations (such as IJIS and OMG). The SCC is leading the operationalization of Project Interoperability, via two different types of communities:
+
+* Communities of Interest will drive mission-centric information sharing and safeguarding. Examples of communities of interest are “statewide and regional ISEs” or “cyber information sharing.”
+* Communities of Practice will collaborate with the communities of interest to achieve mission-focused goals of the ISE. Communities of practice will be oriented around functions and capabilities, such as FICAM or open standards.  
+
+
 ## Where You Come In
 
 Project Interoperability can be used to access, improve, and use information sharing tools and resources. It uses some of the existing, well known [enterprise architecture frameworks](http://en.wikipedia.org/wiki/Enterprise_architecture_framework) ([TOGAF](http://www.opengroup.org/togaf/), [DoDAF](http://en.wikipedia.org/wiki/Department_of_Defense_Architecture_Framework), [FEAF](http://en.wikipedia.org/wiki/Federal_enterprise_architecture), etc.), and the principles of service-oriented architecture (such as reuse and intrinsic interoperability) to suggest standards, tools, and methodologies to link existing systems. It also specifies the development of common documents and products that will enable disparate departments’ and agencies’ architectures to make the full framework operational.  
