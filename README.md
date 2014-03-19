@@ -4,7 +4,7 @@ IMPORTANT: THIS IS A DRAFT. LARGE PARTS OF THIS PROJECT ARE UNDER CONSTRUCTION A
 
 ## Problem this Solves
 
-Our government needs to share information better, faster, and smarter. Our mission is to improve the government's ability to share the right information, with the right people, at the right time.
+Government needs to share information better, faster, and smarter. Our mission is to improve the government's ability to share the right information, with the right people, at the right time.
 
 ## How this Project Solves this Problem
 
