@@ -1,9 +1,9 @@
 ---
 published: true
-permalink: /contributing/
+permalink: /authorities/
 layout: default
-filename: contributing.md
-title: Contributing to Project Interoperability
+filename: authorities.md
+title: Project Interoperability Authorities
 ---
 
 Project Interoperability consolidates principles and authorities in numerous presidential directives, policy documents, strategies, and agency guidelines, notably:
