@@ -8,7 +8,9 @@ Our government needs to share information better, faster, and smarter. Our missi
 
 ## How this Project Solves this Problem
 
-We're providing these guidelines and tools to collaborate with our partners to develop information interoperability in government. We hope you'll help us improve this. This project is based on [Project Open Data](http://project-open-data.github.io). Imitation is the sincerest form of flattery.
+The goal of Project Interoperability is to help government and non-government organizations identify a baseline of terms, tools, and techniques to connect networks and systems.  We aim to be architecture-agnostic, and we are trying to normalize the way information sharing technology is developed. We want to achieve a connected government.
+
+This project is based on [Project Open Data](http://project-open-data.github.io). Imitation is the sincerest form of flattery.
 
 ## Where You Come In
 
