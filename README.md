@@ -35,4 +35,4 @@ Members of the public and US government employees who wish to contribute are enc
 
 ## Privacy
 
-Comments, pull requests and any other messages received through this repository may be subject to the [Presidential Records Act](http://www.archives.gov/about/laws/presidential-records.html) and may be archived. Learn more at http://WhiteHouse.gov/privacy
+Comments, pull requests, and any other messages received through this repository may be subject to archiving requirements. Learn more about our privacy policies at http://ISE.gov/site-policies.
