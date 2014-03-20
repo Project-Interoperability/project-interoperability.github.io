@@ -12,12 +12,12 @@ title: Contributing to Project Interoperability
 
 This project constitutes a collaborative work ("open source"). Federal employees and members of the public are encouraged to improve the project by contributing. For more information, please see [the FAQ](/faq/)
 
-Contributions can be made, primarily in two ways:
+Contributions can be made, primarily, in two ways:
 
 ### Easy
 
-1. Click the "Improve this content" button in the top right corner of any page
-2. Make changes as you would normally
+1. Click the "Help Improve this Content" button in the top right corner of any page.
+2. Make changes as you would normally.
 3. Click "Propose file change."
 4. You change should appear once approved.
 
@@ -26,9 +26,9 @@ Contributions can be made, primarily in two ways:
 ### Advanced
 
 1. Configure git by using this [basic tutorial](https://help.github.com/articles/set-up-git) or by downloading the [GitHub for Mac](http://mac.github.com/) (or [GitHub for Windows](http://windows.github.com/)) and optionally [Mou](http://mouapp.com/).
-2. [Fork](https://help.github.com/articles/fork-a-repo) the project
+2. [Fork](https://help.github.com/articles/fork-a-repo) the project.
 3. Make changes as you would normally using the tools installed in step #1.
-4. Push the changes back to your fork
+4. Push the changes back to your fork.
 5. Submitting a pull request to this repository
 6. You change should appear once approved.
 
