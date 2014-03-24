@@ -6,7 +6,7 @@ filename: index.md
 title: Project Interoperability
 ---
 
-IMPORTANT: THIS IS A DRAFT. LARGE PARTS OF THIS PROJECT ARE UNDER CONSTRUCTION AND MAY REFER BACK TO PROJECT OPEN DATA THROUGHOUT THE MONTH OF MARCH.
+IMPORTANT: THIS IS A DRAFT AND STILL UNDER CONSTRUCTION.
 
 ##1. Background
 
@@ -47,7 +47,7 @@ These are the top most important tools for building information interoperability
 
 2-10 [National Information Exchange Model (NIEM)](/niem/) - 
 
-2-11 [ISE Information Interoperability Framework (I2F)] - We have broken out the most useful tools and guidance of the Information Interoperability Framework, or I2F. We want to collaborate with you, our stakeholders and partners, to edit and improve it. You can also download the I2F PDF(coming soon), in its most recent version, V0.5. The content in this project may differ from the PDF because it is a work in progress only based on the I2F PDF.
+2-11 [ISE Information Interoperability Framework (I2F)] - 
 
 2-12 [ISE Standards Specifications Framework](/standards-specifications/) - 
 
