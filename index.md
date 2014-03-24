@@ -25,31 +25,31 @@ We hope you help us improve and adopt this as a resource to build information in
 
 ##2. Interoperability Tools
 
-These are the top most important tools for building information interoperability. Learn more in an overview about [how you can use these tools](http://ise.gov).
+These are the top most important tools for building information interoperability.
 
-2-1 [Common Profile] - This is the common profile.
+2-1 [Common Profile] - 
 
-2-2 [Springboard](/springboard/) - A sentence about Springboard.
+2-2 [Springboard](/springboard/) - 
 
-2-3 [Architecture Alignment] - More I2F tools.
+2-3 [Architecture Alignment] - 
 
-2-4 [Maturity Model] - More I2F tools.
+2-4 [Maturity Model] - 
 
-2-5 [Reference Architecture Template] - More I2F tools.
+2-5 [Reference Architecture Template] - 
 
-2-6 [Geospatial Interoperability] - More I2F tools.
+2-6 [Geospatial Interoperability] - 
 
-2-7 [Attribute Exchange](/attribute-exchange/) - A sentence about attribute exchange.
+2-7 [Attribute Exchange](/attribute-exchange/) - 
 
-2-8 [Identity and Access Management](/idam/) - A sentence about IdAM.
+2-8 [Identity and Access Management](/idam/) - 
 
-2-9 [Exchange Patterns] - More I2F tools.
+2-9 [Exchange Patterns] - 
 
-2-10 [National Information Exchange Model (NIEM)](/niem/) - A sentence about NIEM.
+2-10 [National Information Exchange Model (NIEM)](/niem/) - 
 
 2-11 [ISE Information Interoperability Framework (I2F)] - We have broken out the most useful tools and guidance of the Information Interoperability Framework, or I2F. We want to collaborate with you, our stakeholders and partners, to edit and improve it. You can also download the I2F PDF(coming soon), in its most recent version, V0.5. The content in this project may differ from the PDF because it is a work in progress only based on the I2F PDF.
 
-2-12 [ISE Standards Specifications Framework](/standards-specifications/) - A sentence about standards specifications.
+2-12 [ISE Standards Specifications Framework](/standards-specifications/) - 
 
 ----------------
 
@@ -57,4 +57,4 @@ These are the top most important tools for building information interoperability
 
 Use cases of novel or best practices from agencies who are leading in open data help others understand the challenges and opportunities for success.
 
-6-1 [New Jersey ISE] - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+6-1 [New Jersey ISE] - 
