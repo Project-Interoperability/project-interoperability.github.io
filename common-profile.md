@@ -3,7 +3,7 @@ published: true
 permalink: /common-profile/
 layout: default
 filename: common-profile.md
-title: Common Profile
+title: Interoperability and Use of the Common Profile
 ---
 
-hello world
+ISE Common Profile Framework Description
