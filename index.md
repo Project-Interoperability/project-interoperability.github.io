@@ -32,7 +32,7 @@ These are the top tools for building information interoperability.
 
 2-2 [Springboard](/springboard/) is an evaluation and certification program designed to help industry and government programs ensure complaince with information sharing standards. 
 
-2-3 [Architecture Alignment] - 
+2-3 [Architecture Alignment] refers to the process required to create interoperability between different architectures. For example, an architecture alignment would be required for a DoDAF system to “talk to” a TOGAF system.  
 
 2-4 [Maturity Model] is an approach for describing the various stages of implementation of any system or program. The five stages, in order from least mature to most mature, are: ad hoc, repeatable, enhanced, managed, and optimized.
 
