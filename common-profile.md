@@ -1,7 +1,7 @@
 ---
 published: true
 permalink: /common-profile.md
-layout: hero
+layout: default
 filename: common-profile.md
 title: Interoperability and Use of the Common Profile
 ---
