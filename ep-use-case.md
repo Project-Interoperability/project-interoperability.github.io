@@ -104,14 +104,12 @@ H. The originating and matching case officers contact each other and share inves
 
 For each topic identified below, the question posed describes what content to provide for the related exchange profile sub-section.
 
-****
+* **Process: What business process allowed this scenario to occur? ** Participants agreed to required and optional data elements, exchange methodology, and use of message hub as broker.
 
-· **Process: What business process allowed this scenario to occur? **Participants agreed to required and optional data elements, exchange methodology, and use of message hub as broker.
+* **Data: What is exchanged? ** Basic officer, agency, and target information. There are required and optional data elements. The optional data elements are just other identifying data about the target.
 
-· **Data: What is exchanged? **Basic officer, agency, and target information. There are required and optional data elements. The optional data elements are just other identifying data about the target.
+* **Services: How is information shared (e.g., XML, Web Service-based system)? ** XML based web service using GJXDM3, Nlets XML, and NDPIX text format.
 
-· **Services: How is information shared (e.g., XML, Web Service-based system)? **XML based web service using GJXDM3, Nlets XML, and NDPIX text format.
+* **Policy: What are the terms and conditions that allow this scenario to occur? ** NVPS Policy and Technical requirements established by the NVPS Coordinating Committee (NVPS CC) and the NVPS Technical Working Group (NVPS TWG).
 
-· **Policy: What are the terms and conditions that allow this scenario to occur? **NVPS Policy and Technical requirements established by the NVPS Coordinating Committee (NVPS CC) and the NVPS Technical Working Group (NVPS TWG).
-
-· **Exchange Specifications **These are the rules for exchange of information used in the NVPS. These requirements are developed by the participants and users of the systems and information.
+* **Exchange Specifications ** These are the rules for exchange of information used in the NVPS. These requirements are developed by the participants and users of the systems and information.
