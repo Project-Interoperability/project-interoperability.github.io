@@ -1,9 +1,9 @@
 ---
 published: true
-permalink: /common-profile.md
+permalink: /test.md
 layout: default
-filename: common-profile.md
-title: Interoperability and Use of the Common Profile
+filename: test.md
+title: test
 ---
 
 Test
