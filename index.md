@@ -59,3 +59,5 @@ These are the top tools for building information interoperability.
 Use cases of novel or best practices from agencies who are leading in open data help others understand the challenges and opportunities for success.
 
 6-1 [New Jersey ISE] - 
+
+6-2 [Exchange Patterns](/ep-use-case/) - National Virtual Pointer System
