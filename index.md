@@ -44,7 +44,7 @@ These are the top tools for building information interoperability.
 
 2-8 [Identity and Access Management](/idam/) is a diverse portfolio of services and processes that provides identity management, authentication, and authorization. 
 
-2-9 [Exchange Patterns] provide generic solutions to help demonstrate a commonly occurring need for exchange of data or information between two or more partners. 
+2-9 [Exchange Patterns](/exchange-patterns/) provide generic solutions to help demonstrate a commonly occurring need for exchange of data or information between two or more partners. 
 
 2-10 [National Information Exchange Model (NIEM)](/niem/) is a community-driven, government-wide, standards-based approach to exchanging information. 
 
