@@ -16,10 +16,11 @@ NVPS is a system that connects multiple existing investigative target deconflict
 
 ### Scenario Participants
 
-| Organization | Information Sharing Network |
-| Junction City, KS Police Department | Local databases and the Kansas State Intelligence System (available via RISSNET) |
-| Kansas City DEA Interdiction Task Force | DEA NDPIX entry via DOJ Network routed to the NVPS Message Hub via Nlets and RISSNET. |
-| DEA New Jersey Field Office | DEA NDPIX notification via DOJ Network routed from the NVPS Message Hub via Nlets and RISSNET. |
+Organizations and their Information Sharing Networks: 
+
+* **Junction City, KS Police Department:** Local databases and the Kansas State Intelligence System (available via RISSNET)
+* **Kansas City DEA Interdiction Task Force:** DEA NDPIX entry via DOJ Network routed to the NVPS Message Hub via Nlets and RISSNET.
+* **DEA New Jersey Field Office:** DEA NDPIX notification via DOJ Network routed from the NVPS Message Hub via Nlets and RISSNET.
 
 ### Scenario Steps
 
