@@ -22,7 +22,7 @@ The ISE Standards and Specifications Framework will:
 
 For information exchange to occur, there are typically four key components of that exchange, which you can see in the chart below.
 
-[chart one coming soon]
+![](/images/standards1.png)
 
 ## Functional Profiles
 
@@ -30,7 +30,7 @@ Functional profiles represent standards, mechanisms, and processes for the consi
 
 The chart below provides an example of such a profile.
 
-[chart two coming soon]
+![](/images/standards2.png)
 
 In this example, the [UML](http://en.wikipedia.org/wiki/Unified_Modeling_Language) framework is an example of coherent and mutually supportive sets of capabilities that satisfy the needs of a stakeholder group. The data component of this exchange will be [NIEM](http://niem.gov), and NIEM UML profile-based modeling tools will be utilized to develop the requirements and associated models for this exchange. From a services perspective, in the justice and public safety community, the [GRA](https://it.ojp.gov/gra) is the prevalent standard adopted by the community to specify the services components of their exchange. While the GRA is a services specification, there is no associated model to model these services. This identifies a gap in modeling tools that minimizes manual development of the services specification.
 
@@ -40,7 +40,7 @@ On the policy aspects of this framework, there is no clearly defined standard. T
 
 Technical profiles represent the actual technical standards developed by the standards development organizations (such as [OASIS](https://www.oasis-open.org/) or [OMG](http://www.omg.org/)), or derivatives of those standards that help address the functional requirements defined using the functional profiles. For a given set of functional profiles, there might be more than one technical profile that addresses the specific needs for that exchange. The chart below provides an example of such a profile.
 
-[chart three coming soon]
+![](/images/standards3.png)
 
 In this example, the [XML](http://en.wikipedia.org/wiki/XML)/web services framework is an example of coherent and mutually supportive sets of capabilities that satisfy the needs of a stakeholder group. The actual technical specification standard that powers NIEM is the [W3C Schema Specification](http://www.w3.org/XML/Schema), which is also the normative representation for NIEM. Similarly, from a services perspective, the underlying technical specification for GRA is the WS* set of OASIS standards. If a practitioner has specific [MQ](http://en.wikipedia.org/wiki/Message_queue)-based asynchronous messaging requirements, there might be another option here for an MQ-based service specification. On the policy aspects of this framework, there are a number of options that might be used. The Global Federated Identity and Access Management Framework addresses identity policy requirements; there may also be a need to address privacy policies. There is no specific standard that addresses that today, but [XACML](http://en.wikipedia.org/wiki/XACML) is a solid alternative to help meet those requirements. On the process side of this framework, there are stable standards that help with process representations, but nothing specific to address the need for this domain. In this scenario, more than one technical profile addresses one functional framework.
 
@@ -48,6 +48,6 @@ In this example, the [XML](http://en.wikipedia.org/wiki/XML)/web services framew
 
 Implementation profiles represent the actual reference implementations for the functional and technical profiles. Implementation profiles are instrumental in developing reference implementations that prove the functional and technical profiles. These implementations are often tool-specific and driven by the internal development environments for the participating agencies. The below provides an example of such a profile.
 
-[chart 4 coming soon]
+![](/images/standards4.png)
 
 In this example, there might be two or more implementation profiles, but the most common ones in use are based on a [JEE](http://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition) or [.NET](http://en.wikipedia.org/wiki/.NET_Framework) framework. The underlying tooling and development capabilities will also vary based on the framework. However, since the focus of the information sharing standards is primarily limited to the sharing of information in motion, the actual details of implementation of this framework almost becomes irrelevant.
