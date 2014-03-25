@@ -73,44 +73,44 @@ Technical standards used in this NVPS scenario include:
 
 A. The originating system creates a target record for deconfliction which is routed to the NVPS message hub.
 
-![](Exchange%20Patterns%20Use%20Case_files/image001.png)
+![](ep-usecase1.png)
 
 B. The NVPS message hub routes the target record for **Query** to the interfaces of connected target deconfliction systems.
 
 C. Target deconfliction system B **responds** to the NVPS message hub's query with pointer index information of a matching case.
 
-![](Exchange%20Patterns%20Use%20Case_files/image002.png)
+![](ep-usecase2.png)
 
 D. The NVPS message hub routes the **response**, which includes the point of contact information for the matching case, to the originating system.
 
-![](Exchange%20Patterns%20Use%20Case_files/image003.png)
+![](ep-usecase3.png)
 
 E. The NVPS message hub also routes the **response** to the matching entity.
 
-![](Exchange%20Patterns%20Use%20Case_files/image004.png)
+![](ep-usecase4.png)
 
 F. The originating system and matching system receives a notification **Alert** and displays it as a message.
 
-![](Exchange%20Patterns%20Use%20Case_files/image005.png)
+![](ep-usecase5.png)
 
 G. The matching system receives a notification Alert and displays it as a message.
 
-![](Exchange%20Patterns%20Use%20Case_files/image006.png)
+![](ep-usecase6.png)
 
 H. The originating and matching case officers contact each other and share investigative details as appropriate.
 
-![](Exchange%20Patterns%20Use%20Case_files/image007.png)
+![](ep-usecase7.png)
 
 ### Exchange Profiles
 
 For each topic identified below, the question posed describes what content to provide for the related exchange profile sub-section.
 
-* **Process: What business process allowed this scenario to occur? ** Participants agreed to required and optional data elements, exchange methodology, and use of message hub as broker.
+* **Process: What business process allowed this scenario to occur?** Participants agreed to required and optional data elements, exchange methodology, and use of message hub as broker.
 
 * **Data: What is exchanged? ** Basic officer, agency, and target information. There are required and optional data elements. The optional data elements are just other identifying data about the target.
 
-* **Services: How is information shared (e.g., XML, Web Service-based system)? ** XML based web service using GJXDM3, Nlets XML, and NDPIX text format.
+* **Services: How is information shared (e.g., XML, Web Service-based system)?** XML based web service using GJXDM3, Nlets XML, and NDPIX text format.
 
-* **Policy: What are the terms and conditions that allow this scenario to occur? ** NVPS Policy and Technical requirements established by the NVPS Coordinating Committee (NVPS CC) and the NVPS Technical Working Group (NVPS TWG).
+* **Policy: What are the terms and conditions that allow this scenario to occur?** NVPS Policy and Technical requirements established by the NVPS Coordinating Committee (NVPS CC) and the NVPS Technical Working Group (NVPS TWG).
 
-* **Exchange Specifications ** These are the rules for exchange of information used in the NVPS. These requirements are developed by the participants and users of the systems and information.
+* **Exchange Specifications** These are the rules for exchange of information used in the NVPS. These requirements are developed by the participants and users of the systems and information.
