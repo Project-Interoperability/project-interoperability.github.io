@@ -30,7 +30,7 @@ These are the top tools for building information interoperability.
 
 2-1 [Common Profile] describes high-level details associated with any program or system (such as the interoperability profile or metadata). 
 
-2-2 [Springboard](/springboard/) - 
+2-2 [Springboard](/springboard/) is an evaluation and certification program designed to help industry and government programs ensure complaince with information sharing standards. 
 
 2-3 [Architecture Alignment] - 
 
@@ -42,7 +42,7 @@ These are the top tools for building information interoperability.
 
 2-7 [Attribute Exchange](/attribute-exchange/) - 
 
-2-8 [Identity and Access Management](/idam/) allows entities to manage user digital identities. IdAM includes authentication, authorization, privilege management, and others. 
+2-8 [Identity and Access Management](/idam/) is a diverse portfolio of services and processes that provides identity management, authentication, and authorization. 
 
 2-9 [Exchange Patterns] provide generic solutions to help demonstrate a commonly occurring need for exchange of data or information between two or more partners. 
 
