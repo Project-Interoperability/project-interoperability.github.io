@@ -38,7 +38,7 @@ These are the top tools for building information interoperability.
 
 2-5 [Reference Architecture Template] is a data-agnostic template for an architecture, which provides a common vocabulary for implementation
 
-2-6 [Geospatial Interoperable Reference Architecture (GIRA)] (http://www.ise.gov/blog/michael-howell/our-approach-geospatial-interoperability) is a framework for developing new geospatial system investments and aligning existing geospatial capabilities. The GIRA is in development, and will be available late summer 2014.
+2-6 [Geospatial Interoperable Reference Architecture (GIRA)](http://www.ise.gov/blog/michael-howell/our-approach-geospatial-interoperability) is a framework for developing new geospatial system investments and aligning existing geospatial capabilities. The GIRA is in development, and will be available late summer 2014.
 
 2-7 [Attribute Exchange](/attribute-exchange/) - 
 
