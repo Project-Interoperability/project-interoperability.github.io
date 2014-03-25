@@ -14,7 +14,7 @@ This project is based on [Project Open Data](http://project-open-data.github.io)
 
 ## Who Are We?
 
-We are the [Office of the Program Manager for the Information Sharing Environment (ISE)](http://www.ise.gov/). We were created in 2004 in response to the 9/11 Commission report. We are the national office charged with advancing responsible for information sharing in support of counterterrorism and homeland security.  We work with federal, state, local, and tribal government partners, and with the private sector and internationally. You can read more about us [here](http://ise.gov/what-ise).
+We are the [Office of the Program Manager for the Information Sharing Environment (ISE)](http://www.ise.gov/). We were created in 2004 in response to the 9/11 Commission report. We are the national office charged with advancing responsible information sharing in support of counterterrorism and homeland security.  We work with federal, state, local, and tribal government partners, and with the private sector and internationally. You can read more about us [here](http://ise.gov/what-ise).
 
 The [Standards Coordinating Council (SCC)](http://www.ise.gov/standards-coordinating-council) is an advisory group made up of standards organizations and industry associations (such as IJIS and OMG). The SCC is leading the operationalization of Project Interoperability, via two different types of communities:
 
