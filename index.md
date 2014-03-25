@@ -26,7 +26,7 @@ We hope you help us improve and adopt this as a resource to build information in
 
 ##2. Interoperability Tools
 
-These are the top most important tools for building information interoperability.
+These are the top tools for building information interoperability.
 
 2-1 [Common Profile] - 
 
