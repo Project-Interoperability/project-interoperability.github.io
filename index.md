@@ -48,9 +48,7 @@ These are the top tools for building information interoperability.
 
 2-10 [National Information Exchange Model (NIEM)](/niem/) is a community-driven, government-wide, standards-based approach to exchanging information. 
 
-2-11 [ISE Information Interoperability Framework (I2F)] - 
-
-2-12 [ISE Standards Specifications Framework](/standards-specifications/) describes interoperable information exchange attributes beginning with standardized requirements and definitions. It includes the descriptive mechanics to develop components, and processes necessary to identify and normalize standards to achieve interoperability.  
+2-11 [ISE Standards Specifications Framework](/standards-specifications/) describes interoperable information exchange attributes beginning with standardized requirements and definitions. It includes the descriptive mechanics to develop components, and processes necessary to identify and normalize standards to achieve interoperability.  
 
 ----------------
 
