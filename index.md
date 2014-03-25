@@ -28,7 +28,7 @@ We hope you help us improve and adopt this as a resource to build information in
 
 These are the top tools for building information interoperability.
 
-2-1 [Common Profile] describes high-level details associated with any program or system (such as the interoperability profile or metadata). 
+2-1 [Common Profile](/common-profile/) describes high-level details associated with any program or system (such as the interoperability profile or metadata). 
 
 2-2 [Springboard](/springboard/) is an evaluation and certification program designed to help industry and government programs ensure complaince with information sharing standards. 
 
