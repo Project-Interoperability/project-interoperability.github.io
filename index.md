@@ -28,29 +28,29 @@ We hope you help us improve and adopt this as a resource to build information in
 
 These are the top tools for building information interoperability.
 
-2-1 [Common Profile] - 
+2-1 [Common Profile] describes high-level details associated with any program or system (such as the interoperability profile or metadata). 
 
 2-2 [Springboard](/springboard/) - 
 
 2-3 [Architecture Alignment] - 
 
-2-4 [Maturity Model] - 
+2-4 [Maturity Model] is an approach for describing the various stages of implementation of any system or program. The five stages, in order from least mature to most mature, are: ad hoc, repeatable, enhanced, managed, and optimized.
 
-2-5 [Reference Architecture Template] - 
+2-5 [Reference Architecture Template] is a data-agnostic template for an architecture, which provides a common vocabulary for implementation
 
-2-6 [Geospatial Interoperability] - 
+2-6 [Geospatial Interoperable Reference Architecture (GIRA)] is a framework for developing new geospatial system investments and aligning existing geospatial capabilities. The GIRA is in development, and will be available late summer 2014.
 
 2-7 [Attribute Exchange](/attribute-exchange/) - 
 
-2-8 [Identity and Access Management](/idam/) - 
+2-8 [Identity and Access Management](/idam/) allows entities to manage user digital identities. IdAM includes authentication, authorization, privilege management, and others. 
 
-2-9 [Exchange Patterns] - 
+2-9 [Exchange Patterns] provide generic solutions to help demonstrate a commonly occurring need for exchange of data or information between two or more partners. 
 
-2-10 [National Information Exchange Model (NIEM)](/niem/) - 
+2-10 [National Information Exchange Model (NIEM)](/niem/) is a community-driven, government-wide, standards-based approach to exchanging information. 
 
 2-11 [ISE Information Interoperability Framework (I2F)] - 
 
-2-12 [ISE Standards Specifications Framework](/standards-specifications/) - 
+2-12 [ISE Standards Specifications Framework](/standards-specifications/) describes interoperable information exchange attributes beginning with standardized requirements and definitions. It includes the descriptive mechanics to develop components, and processes necessary to identify and normalize standards to achieve interoperability.  
 
 ----------------
 
