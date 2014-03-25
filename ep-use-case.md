@@ -73,33 +73,33 @@ Technical standards used in this NVPS scenario include:
 
 A. The originating system creates a target record for deconfliction which is routed to the NVPS message hub.
 
-![](ep-usecase1.png)
+![](/images/ep-usecase1.png)
 
 B. The NVPS message hub routes the target record for **Query** to the interfaces of connected target deconfliction systems.
 
 C. Target deconfliction system B **responds** to the NVPS message hub's query with pointer index information of a matching case.
 
-![](ep-usecase2.png)
+![](/images/ep-usecase2.png)
 
 D. The NVPS message hub routes the **response**, which includes the point of contact information for the matching case, to the originating system.
 
-![](ep-usecase3.png)
+![](/images/ep-usecase3.png)
 
 E. The NVPS message hub also routes the **response** to the matching entity.
 
-![](ep-usecase4.png)
+![](/images/ep-usecase4.png)
 
 F. The originating system and matching system receives a notification **Alert** and displays it as a message.
 
-![](ep-usecase5.png)
+![](/images/ep-usecase5.png)
 
 G. The matching system receives a notification Alert and displays it as a message.
 
-![](ep-usecase6.png)
+![](/images/ep-usecase6.png)
 
 H. The originating and matching case officers contact each other and share investigative details as appropriate.
 
-![](ep-usecase7.png)
+![](/images/ep-usecase7.png)
 
 ### Exchange Profiles
 
@@ -107,7 +107,7 @@ For each topic identified below, the question posed describes what content to pr
 
 * **Process: What business process allowed this scenario to occur?** Participants agreed to required and optional data elements, exchange methodology, and use of message hub as broker.
 
-* **Data: What is exchanged? ** Basic officer, agency, and target information. There are required and optional data elements. The optional data elements are just other identifying data about the target.
+* **Data: What is exchanged?** Basic officer, agency, and target information. There are required and optional data elements. The optional data elements are just other identifying data about the target.
 
 * **Services: How is information shared (e.g., XML, Web Service-based system)?** XML based web service using GJXDM3, Nlets XML, and NDPIX text format.
 
