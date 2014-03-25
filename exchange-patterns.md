@@ -18,7 +18,7 @@ The Conceptual Exchange Model (Figure 1) is a high-level architecture model that
 
 Figure 1.
 
-
+![](/images/exchange-patterns1.png)
 
 ### Standardized interfaces and Interoperability
 
@@ -34,7 +34,7 @@ The query/response pattern (Figure 2) is the most common type of information exc
 
 Figure 2.
 
-
+![](/images/exchange-patterns2.png)
 
 ### Broadcast Pattern
 
@@ -42,7 +42,7 @@ A broadcast exchange pattern (Figure 3) can be an independent alert, warning, or
 
 Figure 3.
 
-
+![](/images/exchange-patterns3.png)
 
 Exchange patterns for broadcast messages will include similar elements as documented in the query/response pattern. However, these elements will be further elaborated to define implementation options, including architecture context and associated messaging depending on the type of broadcast. These options would include (along with architectural impact) situations where a service provider broadcasts messages to specific service consumers in a point-to-point messaging pattern, or in a publish-and-subscribe construct where the service provider publishes the broadcast message to a subscription service. These subscription services manage downstream technical requirements capabilities like mediation and transformation services, content-based routing, etc. In most cases there is a system-level acknowledgement that confirms that the message was delivered successfully, with no real mission-specific responses expected as part of this pattern.
 
@@ -52,7 +52,7 @@ Workflow pattern (Figure 4) exchanges are typically part of an organization’s 
 
 Figure 4.
 
-
+![](/images/exchange-patterns4.png)
 
 ### Coordination Pattern(s) – Orchestration and Choreography 
 
@@ -68,13 +68,13 @@ An initial request leads to a number of similar or related responses from multip
 
 Figure 5.
 
-
+![](/images/exchange-patterns5.png)
 
 An initial request (Figure 5) leads to a number of similar or related responses, often with enriched data.  The request is based on a predefined sequence of services, where a response from one query provides input parameters for subsequent services.  Figure 6 depicts the choreography pattern, the coordination of these query responses into input parameters as they flow through subsequent services. The choreography of these services might generate alerts and warnings based on specific data inputs, events, or thresholds. These exchanges are fairly complex and incorporate a number of different types of technical patterns and capabilities.
 
 Figure 6.
 
-
+![](/images/exchange-patterns6.png)
 
 ### Exchange Profile(s): Elements and Attributes
 
@@ -162,7 +162,7 @@ An advantage of approaching identity as an aggregation of exchange patterns is t
 
 Figure 7
 
-
+![](/images/exchange-patterns7.png)
 
 ## Federated Queries Pattern
 
