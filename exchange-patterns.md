@@ -1,5 +1,9 @@
 ---
-layout:main
+published: true
+permalink: /exchange-patterns/
+layout: default
+filename: exchange-patterns.md
+title: Exchange Patterns
 ---
 
 ISE exchange patterns provide generic solutions to help demonstrate a commonly occurring need for exchange of data or information. A pattern is a description of a core function within an information sharing transaction, and should be described and cataloged along with interoperability technical standards and services requirements as part of an information exchange specification.
