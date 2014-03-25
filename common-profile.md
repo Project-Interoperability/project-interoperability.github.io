@@ -73,24 +73,55 @@ The content for these components are highly tailored based on the mission use ca
 
 ### Data Considerations
 
-**Reference View**
+#### Reference View
 
-**Technical Guidance View**
+* _None_
 
-**Implementation Instance View**
+#### Technical Guidance View
+
+* Data elements and definitions that describe the data to be shared
+* Business rules that may be applicable to the entire data set, or specific data elements
+* Based on a data vocabulary, identify any data mappings that may be required between the mission data, and appropriate elements in the vocabulary
+* If an XML-based vocabulary is used, like NIEM, this data section of the specification will equate to an IEPD that will include all the descriptive sections and an XML schema (the normative specification)
+
+#### Implementation Instance View
+
+* Data model that may describe the structure of the data model
+* Actual exchange model for the data
+* Based on the maturity of the exchange partners, mission need, and availability of a standardized methodology for data tagging, there may be additional requirements for tagging specific data elements
+* If a standardized methodology is not available, then the rules for tagging are often documented and may be implemented in the interface implementation
 
 ### Services Considerations
 
-**Reference View**
+#### Reference View
 
-**Technical Guidance View**
+* _None_
 
-**Implementation Instance View**
+#### Technical Guidance View
+
+* Type of service – this will include information explaining if the service is synchronous, asynchronous, point-to-point, or multiple endpoints, etc. (certain architecture and implementation decisions are driven based on this information)
+* Metadata for service discovery (based on standardized taxonomy, if available) 
+* Methodology and standardized tags for metadata tagging for the service specification to indicate identity and access management, security classifications, privacy and civil liberties, use and dissemination, provenance, etc. (if available and applicable) 
+
+#### Implementation Instance View
+
+* Number of endpoints
+* Description of endpoints – explanation of the type of endpoints and system components that will be participating in the exchange
+* Connection protocols – SOAP web services, RESTful services, queues, etc. 
+* Connection parameters, including IP addresses, security/identity assertions, etc.
 
 ### Policy Considerations
 
-**Reference View**
+#### Reference View
 
-**Technical Guidance View**
+* _None_
 
-**Implementation Instance View**
+#### Technical Guidance View
+
+* Description of applicable policies and any available taxonomies/executable formats for the policy that may be used to automate/enforce the policy rules 
+* Rules for how tags may be applied, including inter-dependencies, sequencing, and application of these rules 
+* Processing rules and instructions for policy enforcement to be applied in the runtime environment 
+
+#### Implementation Instance View
+
+* Describe what policies and rules will be enforced in the specification vs. need to be enforced in code during implementation 
