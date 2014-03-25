@@ -24,9 +24,14 @@ Figure 1 shows a conceptual profile called "Cloud Services;" it has three subord
 
 Figure 1.
 
+![](/images/common-profile1.png)
+
 The relationship between the Common Profile and the ISE Interoperability Framework is depicted in Figure 2.
 
 Figure 2.
+
+![](/images/common-profile2.png)
+
 
 The following sections elaborate on the components of the ISE Interoperability Framework and how they align with the components of the Common Profile.
 
@@ -36,9 +41,16 @@ The Reference View (Figure 3) elaborates on ISE Interoperability Framework opera
 
 Figure 3.
 
+![](/images/common-profile3.png)
+
+
 ## Technical Guidance View
 
 The Technical Guidance View (Figure 4) elaborates on ISE Interoperability Framework concepts around technical capabilities, technical standards, and exchange patterns. It is a set of one or more base standards, and where applicable, the definition of chosen classes, subsets, options, and parameters of those base standards necessary for establishing the behaviors of particular function or enterprise component. The technical guidance view is vendor independent and includes basic attributes, enterprise entities, implementation references, guidance, and compliance information.
+
+Figure 4.
+
+![](/images/common-profile4.png)
 
 ## Implementation Instance View
 
@@ -46,7 +58,9 @@ The Implementation Instance View (Figure 5) elaborates on the exchange specifica
 
 Figure 5.
 
-The content for these components are highly tailored based on the mission use case and capability needs. This builds on the high-level descriptions provided in the exchange profiles [CJM1]. Process Rules, Data, Services, and considerations for the Common Profile are delineated in the table below.
+![](/images/common-profile5.png)
+
+The content for these components are highly tailored based on the mission use case and capability needs. This builds on the high-level descriptions provided in the exchange profiles. Process Rules, Data, Services, and considerations for the Common Profile are delineated in the table below.
 
 ## Considerations for the Common Profile
 
