@@ -49,3 +49,38 @@ Figure 5.
 The content for these components are highly tailored based on the mission use case and capability needs. This builds on the high-level descriptions provided in the exchange profiles [CJM1]. Process Rules, Data, Services, and considerations for the Common Profile are delineated in the table below.
 
 ## Considerations for the Common Profile
+
+| Considerations for the common profile | MOST APPROPRIATE VIEW |
+| R | TG | I |
+| PROCESS RULES CONSIDERATIONS |
+| Detailed description and purpose of the exchange specification including the mission requirements, mission applications participating in the exchange, and any operational/policy considerations for exchanging, using, and disseminating data | **R** | **** | **** |
+| Key stakeholders and exchange partners, and their roles and contact information | **R** | **** | **** |
+| Change management process (if available) | **R** | **** | **** |
+| Role this exchange plays in a broader business capability—when and how to use this exchange | **R** | **** | **** |
+| What this exchange is, and is not | **R** | **** | **** |
+| How to extend or reuse this specific exchange, without losing the semantic meaning of the content or compromising baked-in interoperability requirements | **** | **TG** | **** |
+| Description of rules enforced in the specifications, along with key value lists applicable to this exchange | **** | **** | **I** |
+| Description of applicable rules not enforced in the specification (and implementation guidance, if available, providing a clear explanation of how these rules need to be implemented when the exchange is implemented) | **** | **TG** | **** |
+| Descriptions of any shared services that might be used in processing the exchange, and mechanisms/links on how to access and use the service, MOUs that might be needed, and contact information for service owners | **** | **** | **I** |
+| DATA CONSIDERATIONS |
+| Data elements and definitions that describe the data to be shared | **** | **TG** | **** |
+| Data model that may describe the structure of the data model | **** | **** | **I** |
+| Business rules that may be applicable to the entire data set, or specific data elements | **** | **TG** | **** |
+| Based on a data vocabulary, identify any data mappings that may be required between the mission data, and appropriate elements in the vocabulary | **** | **TG** | **** |
+| Actual exchange model for the data | **** | **** | **I** |
+| If an XML-based vocabulary is used, like [NIEM](https://www.niem.gov/Pages/default.aspx), this data section of the specification will equate to an IEPD that will include all the descriptive sections and an XML schema (the normative specification) | **** | **T** | **** |
+| Based on the maturity of the exchange partners, mission need, and availability of a standardized methodology for data tagging, there may be additional requirements for tagging specific data elements | **** | **** | **I** |
+| If a standardized methodology is not available, then the rules for tagging are often documented and may be implemented in the interface implementation | **** | **** | **I** |
+| SERVICES CONSIDERATIONS |
+| Type of service – this will include information explaining if the service is synchronous, asynchronous, point-to-point, or multiple endpoints, etc. (certain architecture and implementation decisions are driven based on this information) | **** | **TG** | **** |
+| Number of endpoints | **** | **** | **I** |
+| Description of endpoints – explanation of the type of endpoints and system components that will be participating in the exchange | **** | **** | **I** |
+| Connection protocols – SOAP web services, RESTful services, queues, etc. | **** | **** | **I** |
+| Connection parameters, including IP addresses, security/identity assertions, etc. | **** | **** | **I** |
+| Metadata for service discovery (based on standardized taxonomy, if available) | **** | **TG** | **** |
+| Methodology and standardized tags for metadata tagging for the service specification to indicate identity and access management, security classifications, privacy and civil liberties, use and dissemination, provenance, etc. (if available and applicable) | **** | **TG** | **** |
+| POLICY CONSIDERATIONS |
+| Description of applicable policies and any available taxonomies/executable formats for the policy that may be used to automate/enforce the policy rules | **** | **TG** | **** |
+| Rules for how tags may be applied, including inter-dependencies, sequencing, and application of these rules | **** | **TG** | **** |
+| Processing rules and instructions for policy enforcement to be applied in the runtime environment | **** | **TG** | **** |
+| Describe what policies and rules will be enforced in the specification vs. need to be enforced in code during implementation | **** | **** | **I** |
