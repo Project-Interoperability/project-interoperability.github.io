@@ -20,7 +20,7 @@ This project is based on [Project Open Data](http://project-open-data.github.io/
 
 ### Where do I come in?
 
-Help the United States Government increase our ability to share information responsibly by collaborating with us on Project Interoperability. Please suggest enhancements by editing the content here, or add tools that help anyone open data (See “How can I contribute?” below). If you have any questions about the initiative that aren’t answered in this FAQ, reach out to us.
+Help the United States Government increase our ability to share information responsibly by collaborating with us on Project Interoperability. Please suggest enhancements by editing the content here, or add tools that help anyone open data (See “How can I contribute?” below). If you have any questions about the initiative that aren’t answered in this FAQ, [reach out to us](mailto:outreach@ise.gov).
 
 ### How can I contribute?
 
@@ -56,13 +56,13 @@ Anyone – government employees, contractors, developers, the general public –
 
 ###Are my interactions with this project subject to any special privacy considerations?
 
-Due to Federal privacy laws and policy requirements, participants should not post data that can be used to identify specific individuals, for example, another person’s name or address.  We encourage you to check out the White House’s Digital Checklist for Personally Identifiable Information (PII) for more information on PII. If contributors are willing provide their own PII via GitHub, it will be handled according to PM-ISE’s Website, Social Media, and Comment policies.  You should also be aware that comments, pull requests, and any other messages received through this repository may be subject to Federal recordkeeping requirements. In addition to PM-ISE’s policies, we encourage you to check out the White House’s Project Open Data portal for additional resources and guidance. 
+Due to Federal privacy laws and policy requirements, participants should not post data that can be used to identify specific individuals, for example, another person’s name or address.  We encourage you to check out the White House’s [Digital Checklist for Personally Identifiable Information (PII)](http://project-open-data.github.io/digital-pii-checklist/) for more information on PII. If contributors are willing provide their own PII via GitHub, it will be handled according to [PM-ISE’s Website, Social Media, and Comment policies](http://www.ise.gov/site-policies).  You should also be aware that comments, pull requests, and any other messages received through this repository may be subject to Federal recordkeeping requirements. In addition to PM-ISE’s policies, we encourage you to check out the White House’s [Project Open Data](http://project-open-data.github.io/) portal for additional resources and guidance. 
 
 ###Who is in charge of Project Interoperability?
 
 Ultimately? You. While the Office of the PM-ISE launched and continues to oversee the project, this is a collaborative work — commonly known as “open source” — and is supported by the efforts of an entire community. See the “how to contribute” section above to learn more.
 
-At the onset, the [Office of the PM-ISE](www.ise.gov) is here to provide daily oversight and support, but over time, it is our vision that contributors both inside and outside of government – via the Standards Coordinating Council – will be empowered to take on additional leadership roles.
+At the onset, the [Office of the PM-ISE](www.ise.gov) is here to provide daily oversight and support, but over time, it is our vision that contributors both inside and outside of government – via the [Standards Coordinating Council](http://www.ise.gov/standards-coordinating-council) – will be empowered to take on additional leadership roles.
 
 ###Can I create a new page?
 
