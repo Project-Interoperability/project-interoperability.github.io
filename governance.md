@@ -7,6 +7,7 @@ title: Governance
 ---
 
 This is an online collection of frameworks, best practices, guidelines, and case studies developed to help agencies share information responsibly. Project Interoperability will evolve over time as a community resource to facilitate adoption of interoperability. To facilitate collaboration across the government and the private sector, the Project Interoperability is published on the developer social network GitHub.
+
 The office of the Program Manager for the Information Sharing Environment is dedicated to maximizing openness, participation, and collaboration while ensuring the integrity of the resources hosted within Project Interoperability. This page provides information on ways to participate in improving and advancing the Information Interoperability Project and how we will govern it.
 
 ### Contributing
