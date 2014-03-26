@@ -28,7 +28,7 @@ As described, the most common types of services and Technical Capabilities appli
 
 The Technical Capabilities often are mission agnostic, as they are modular building blocks that can be linked internally or externally to other Technical Capabilities to enable sharing and interoperability. This practice is important to the interoperability and the exchange pattern discussion and recommends that services should be developed with fundamental characteristics for discovery, building, or extending services for citizens, specific groups of citizens, organizations, or multiple organizations. However, based on an organization's maturity, some of these services may be specialized for specific applications or generalized for a larger service area to promote reuse and interoperability. The table below provides a list of Technical Capabilities and Technical Services along with their descriptions.
 
-##Technical Capability/Service Chart
+##Technical Capabilities and Services
 
 * **Discovery:** Metadata, person, service, and content discovery. Information Interoperability Framework recognizes that the ISE mission partners have different mission applications and needs, and store information about standards, persons, and services differently. However, there is a need for a common taxonomy that helps mission partners find these capabilities consistently.
 * **Messaging:** Notifications, alerts, and enterprise messaging.
