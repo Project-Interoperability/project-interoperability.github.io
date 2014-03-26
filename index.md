@@ -32,23 +32,21 @@ These are the top tools for building information interoperability.
 
 2-2 [Springboard](/springboard/) is an evaluation and certification program designed to help industry and government programs ensure complaince with information sharing standards. 
 
-2-3 [Architecture Alignment] refers to the process required to create interoperability between different architectures. For example, an architecture alignment would be required for a DoDAF system to “talk to” a TOGAF system.  
+2-3 [Architecture Alignment](/architecture-alignments/) refers to the process required to create interoperability between different architectures. For example, an architecture alignment would be required for a DoDAF system to “talk to” a TOGAF system.  
 
 2-4 [Maturity Model](/maturity-model/) is an approach for describing the various stages of implementation of any system or program. The five stages, in order from least mature to most mature, are: ad hoc, repeatable, enhanced, managed, and optimized.
 
-2-5 [Reference Architecture Template] is a data-agnostic template for an architecture, which provides a common vocabulary for implementation
+2-5 [Reference Architecture Template](/ref-arch-template/) is a data-agnostic template for an architecture, which provides a common vocabulary for implementation
 
-2-6 [Geospatial Interoperable Reference Architecture (GIRA)](http://www.ise.gov/blog/michael-howell/our-approach-geospatial-interoperability) is a framework for developing new geospatial system investments and aligning existing geospatial capabilities. The GIRA is in development, and will be available late summer 2014.
+2-6 [Attribute Exchange](/attribute-exchange/) - 
 
-2-7 [Attribute Exchange](/attribute-exchange/) - 
+2-7 [Identity and Access Management](/idam/) is a diverse portfolio of services and processes that provides identity management, authentication, and authorization. 
 
-2-8 [Identity and Access Management](/idam/) is a diverse portfolio of services and processes that provides identity management, authentication, and authorization. 
+2-8 [Exchange Patterns](/exchange-patterns/) provide generic solutions to help demonstrate a commonly occurring need for exchange of data or information between two or more partners. 
 
-2-9 [Exchange Patterns](/exchange-patterns/) provide generic solutions to help demonstrate a commonly occurring need for exchange of data or information between two or more partners. 
+2-9 [National Information Exchange Model (NIEM)](/niem/) is a community-driven, government-wide, standards-based approach to exchanging information. 
 
-2-10 [National Information Exchange Model (NIEM)](/niem/) is a community-driven, government-wide, standards-based approach to exchanging information. 
-
-2-11 [ISE Standards Specifications Framework](/standards-specifications/) describes interoperable information exchange attributes beginning with standardized requirements and definitions. It includes the descriptive mechanics to develop components, and processes necessary to identify and normalize standards to achieve interoperability.  
+2-10 [ISE Standards Specifications Framework](/standards-specifications/) describes interoperable information exchange attributes beginning with standardized requirements and definitions. It includes the descriptive mechanics to develop components, and processes necessary to identify and normalize standards to achieve interoperability.  
 
 ----------------
 
@@ -56,6 +54,9 @@ These are the top tools for building information interoperability.
 
 Use cases of novel or best practices from agencies who are leading in open data help others understand the challenges and opportunities for success.
 
-6-1 [New Jersey ISE] - 
+3-1 [New Jersey ISE] - 
 
-6-2 [Exchange Patterns](/ep-use-case/) - National Virtual Pointer System
+3-2 [Exchange Patterns](/ep-use-case/) - National Virtual Pointer System
+
+3-3 [Geospatial Interoperable Reference Architecture (GIRA)](http://www.ise.gov/blog/michael-howell/our-approach-geospatial-interoperability) is a framework for developing new geospatial system investments and aligning existing geospatial capabilities. The GIRA is in development, and will be available late summer 2014.
+
