@@ -3,22 +3,12 @@ published: true
 permalink: /maturity-model/
 layout: default
 filename: maturity-model.md
-title: Alignment to Architecture Frameworks
+title: Maturity Model
 ---
 
 ## How to use the maturity model
 
 Evaluate your mission reference architecture and interoperability architecture artifacts developed against the ISE maturity model. The ISE maturity model is broken down by [FEAF](http://en.wikipedia.org/wiki/Federal_enterprise_architecture) common approach domains (business, data, applications and services, security, infrastructure, and performance) with characteristics established for each level of interoperability (adhoc, repeatable, enhanced, managed, and optimized) and for each interoperability requirement. For each element determine the maturity level of your mission architecture by moving across each row and matching your current state. During this step you should also note the characteristics of each requirement where the requirement/element maturity is less than your desired level (Ex., your interoperability level is at 'repeatable'; you need to be at 'managed'). Note that mission-specific architectures will have different goals for each element maturity level based on the operational needs or organizational policy of the mission architecture.
-
-### Use the Reference Architecture Template to Update Applicable Mission Reference Architecture(s)
-
-The reference architecture (RA) template is designed to aid the development of reference architecture artifacts to support interoperability. For each of the domains, the template is a guide to the relevant interoperability requirements and artifacts to be incorporated for interoperability. The template details interoperability goals in each of the domains, as well as instructions for template usage.
-
-The RA template contains an overview of the interoperability goals for each domain and the objectives of the artifacts within the domain. Within each domain listed, the RA template provides an overview of the information to be included in each artifact, and instructions on how to develop each interoperability artifact. Each domain is divided into subsets of the domain. For example, the business domain is divided into business processe,; business models, mission exchange processes, diagrams and flows, other considerations, etc.
-
-In addition, the reference architecture template has been integrated with the Architecture Framework Alignment Grid with mnemonics mapping each item in the template to the applicable artifact reference in the Grid. When used in conjunction with the Architecture Framework Alignment Grid [add link], the architecture framework can be updated to includd interoperability in each domain.
-
-Annually, OMB will receive business and technology architecture information from each department or agency in the form of a high-level, integrated description of the agency's IT-related strategic goals, business objectives, and enabling IT capabilities, to include roadmaps. By leveraging the interoperability baseline provided by the Enterprise Architecture Maturity Measurement Template, OMB can more easily understand the department or agency's progress towards integrating interoperability requirements into their existing architectures while improving their abilities to fulfill strategic priorities.
 
 ### Build a Plan/Roadmap to Achieve Desired Interoperability Level for Each Requirement in the Maturity Model
 
