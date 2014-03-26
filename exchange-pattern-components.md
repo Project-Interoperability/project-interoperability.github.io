@@ -30,6 +30,15 @@ The Technical Capabilities often are mission agnostic, as they are modular build
 
 ##Technical Capability/Service Chart
 
+* **Discovery:** Metadata, person, service, and content discovery. Information Interoperability Framework recognizes that the ISE mission partners have different mission applications and needs, and store information about standards, persons, and services differently. However, there is a need for a common taxonomy that helps mission partners find these capabilities consistently.
+* **Messaging:** Notifications, alerts, and enterprise messaging.
+* **Mediations:** Protocol adaptation and data transformation.
+* **Security:** Policy decision (SAML), retrieval (XACML), administration, certificate validation, principle attribute services, and public key infrastructure (PKI).
+* **Audit:** Robust auditing capabilities to support accountability, provide discrete non-repudiation, and enhance transparency in security effectiveness.
+* **Collaboration:** Conferencing, person discovery, voice over internet protocol (VOIP), collaborative workspaces, and broadcasting.
+* **Enterprise Service Management:** Monitoring and quality of service (QoS) of critical resources, service-level agreement (SLA) compliance, exception detection and handling, service utilization, and distributed service management.
+* **Storage:** Data source integration and enterprise content delivery network.
+
 ##Technical Standards
 
 Technical Standards are intrinsic elements of operational and technical capabilities that are utilized for defining information exchange patterns and information exchange specifications. Technical Standards enable interoperability through advancing design and implementation so that [ISE participants can communicate, exchange data, and make use of the information being shared](http://ise.gov/sites/default/files/ise-asm300-ctiss-issuance.pdf). The ISE standards are technical and foundational in nature and are either specific to a mission need or expansive to tackle challenges across various communities. Technical Standards relating to a mission are developed in conjunction with practitioners from that mission area. An example of this is the ISE effort to promote standards such as [Common Alerting Protocol (CAP)](http://docs.oasis-open.org/emergency/cap/v1.2/CAP-v1.2-os.html) used to disseminate Alerts across the Federal, State, Local, and Private Industry stakeholders. Inversely, Technical Standards relating to capabilities across various communities and organization require general agreement to encourage interoperability rather than fragmentation. An example of these Technical Standards includes the ISE effort to promote Federal Identity, Credential, and Access Management (FICAM) across the Federal Government.
