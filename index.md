@@ -34,7 +34,7 @@ These are the top tools for building information interoperability.
 
 2-3 [Architecture Alignment] refers to the process required to create interoperability between different architectures. For example, an architecture alignment would be required for a DoDAF system to “talk to” a TOGAF system.  
 
-2-4 [Maturity Model] is an approach for describing the various stages of implementation of any system or program. The five stages, in order from least mature to most mature, are: ad hoc, repeatable, enhanced, managed, and optimized.
+2-4 [Maturity Model](/maturity-model/) is an approach for describing the various stages of implementation of any system or program. The five stages, in order from least mature to most mature, are: ad hoc, repeatable, enhanced, managed, and optimized.
 
 2-5 [Reference Architecture Template] is a data-agnostic template for an architecture, which provides a common vocabulary for implementation
 
