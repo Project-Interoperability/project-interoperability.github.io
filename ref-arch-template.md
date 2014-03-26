@@ -92,6 +92,8 @@ Other Business/Mission Domain Considerations:
 
 * Consult the modernization plan to ensure alignment Modernization plan considerations should be captured on existing artifacts as discovered or as part of "to-be" artifacts
 
+*Key Focus Area: Business - Capture business requirements, preferably using standards and guidance from organizations to develop diagrams, models and layers of abstractions to depict business analysis completed, business processes and organizational and business service relationships using standard methods (e.g., Business Process Model Notation (BPMN), IDEF0, Unified Modeling Language (UML), etc.). Services should be standardized both within and between agencies whenever possible to enhance interoperability. Standards Development Organizations should be primary source, i.e., IEEE, OMG, OASIS, NIST, and ISO, to enable the use of architecture and business models and analysis with regard to comparison or alternatives.*
+
 ## Data Domain Section
 
 **Alignment with Project Interoperability Tools and Resources:** Operational Capabilities, Technical Standards, Technical Capabilities, Exchange Patterns, Exchange Specifications.
@@ -152,6 +154,8 @@ Other Data Domain Considerations:
 
 * Consult the modernization plan to ensure alignment. Modernization plan considerations should be captured on existing artifacts as discovered or as part of "to-be" artifacts.
 
+*Key Focus Area: Data - Capture the data considerations from how the data is structured, both logically and physically (if necessary), that enables users access to the data/information with enough specificity to be able to use the data/information. In order to enable interoperable solutions, data and information exchanges should be based on open standards. Privacy considerations with respect to the data exchanges should be designed into every data solution. Capture any relationship between the data and business processes and any organizational or policy considerations that need to be addressed.*
+
 ## Application/Services Domain Section
 
 **Alignment with Project Interoperability Toolsand Resources:** Operational Capabilities, Technical Standards, Technical Capabilities, Exchange Patterns, Exchange Specifications.
@@ -202,7 +206,9 @@ Cloud Application/Service Implementation Considerations:
 
 Mobile Application/Service Implementation Considerations:
 
-* Describe mobile implementation considerations that are unique to the mobile architecture environment in addition to service identification. (A1)
+* Describe mobile implementation considerations that are unique to the mobile architecture environment in addition to service identification. 
+
+*Key Focus Area: Applications/Services - Describe the applications/services and their interconnections between other services as well as the data assets and the information flows that are being used and exchanged. Applications/service and their external interfaces should be standardized when possible for scalability and interoperability purposes. Specify the service standards used and their applicability both internally, externally and reusability.*
 
 ## Infrastructure Domain Section
 
@@ -220,8 +226,7 @@ Mobile Application/Service Implementation Considerations:
 
 Interface Standards:
 
-*  Specify any technical standards required or recommended for the architecture. (I2)
-
+* Specify any technical standards required or recommended for the architecture. (I2)
 * Provide a list of emerging standards that need to be considered along with application timeframes. (I2)
 
 Network Considerations:
@@ -229,10 +234,10 @@ Network Considerations:
 Specify any network category and considerations or standards for each of the fabrics listed below:
 
 * SBU
-
 * Secret
-
 * Top Secret
+
+*Key Focus Area: Infrastructure - Capture the interface requirements to the level needed to facilitate interoperability between systems as well as specifying the specific standards used by the interfaces, networks, and platforms that we exposed to externals. In addition, use well documented interfaces built on non-proprietary open platforms using standard platform independent data protocols. Host solutions must be compliant with current federal, state, and local policy and standards. Technology convergence that supports infrastructure consolidation should be pursued wherever possible. Describe any network specifications required by external systems in order to exchange data/information and be able to use it.*
 
 ## Security Domain Section 
 
@@ -268,6 +273,8 @@ Other Security Domain Considerations:
 
 * Consult the modernization plan to ensure alignment. Modernization plan considerations should be captured on existing artifacts as discovered or as part of "to-be" artifacts.
 
+*Key Focus Area: Security - Provide the activities required demonstrating the flow of security information and security controls allowing external users and applications/services access to data assets. Security controls with respect to interoperability should be considered up front for every technology solution. Consider how security controls affect business services and information flows as well as the design and operation of systems, services, and networks. Provide any security constraints such as required security standards used by the architecture.*
+
 ## Performance Domain Section
 
 **Alignment with Project Interoperability Tools and Resources:** Operational Capabilities
@@ -285,3 +292,5 @@ Architecture Interoperability Performance Considerations:
 Interoperability Performance Metrics:
 
 * Provide metrics by which the architecture's performance can be measured from an interoperability perspective and how will the performance be reported. These metrics should aid in deriving the eventual performance requirements of the reference architecture's underlying systems.
+
+*Key Focus Area: Performance - Provide metrics by which to measure and architecture’s interoperability within and between agencies and levels of government. Metrics could include: percentage of open standards adopted and used by systems in the architecture; percentage of applications /services designed to operate in the cloud or web-enabled. If possible specify how each element of the architecture contributes to the overall goal of interoperability both internally and externally to the architecture. Describe the relationship between investments and their alignment with interoperability goals and how to measure the effectiveness of the investments.*
