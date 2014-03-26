@@ -94,4 +94,6 @@ The performance domain addresses specific performance requirements among exchang
 
 Interoperability requirements are defined and need to be addressed for each of the domains. Interoperability is achieved when requirements clearly articulate attributes for data, exchange mechanisms, and/or services. The table below delineates the minimum common architecture domain artifacts required for interoperability when utilizing existing architecture frameworks. Project Interoperability focuses on driving the definition of common artifacts and concepts for information interoperability, with the expectation that domain-specific interoperability will be addressed as part of the reference architectures.
 
+![](/images/common-approach.png)
+
 ISE mission partners are aligned with different existing architecture frameworks. It may not be necessary to address all capabilities outlined in each domain of the common approach. Some capabilities will be addressed as part of the reference implementation. The table above defines the initial alignment of the ISE and the common approach. Consistency in how ISE participants address these interoperability requirements within each domain will assist in coordinating activities to define the nationwide ISE capabilities.
