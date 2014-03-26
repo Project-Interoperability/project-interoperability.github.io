@@ -28,7 +28,7 @@ The following graphic is provided to show the relationship between the Maturity 
 
 Figure 1.
 
-![](images/model1.png)
+![](/images/model1.png)
 
 It would be advantageous to interoperability efforts if this roadmap/plan were maintained to monitor progress towards interoperability goals and to coordinate plans across departments and agencies. Options for monitoring include: 1) [ISA IPC via the Senior Architect's Forum](http://ise.gov/ise-governance), 2) [OMB via E-Gov Initiative](http://www.whitehouse.gov/omb/e-gov), 3) the [Federal CIO Council](https://cio.gov/).
 
