@@ -1,3 +1,11 @@
+---
+published: true
+permalink: /maturity-model/
+layout: default
+filename: maturity-model.md
+title: Alignment to Architecture Frameworks
+---
+
 ## How to use the maturity model
 
 Evaluate your mission reference architecture and interoperability architecture artifacts developed against the ISE maturity model. The ISE maturity model is broken down by [FEAF](http://en.wikipedia.org/wiki/Federal_enterprise_architecture) common approach domains (business, data, applications and services, security, infrastructure, and performance) with characteristics established for each level of interoperability (adhoc, repeatable, enhanced, managed, and optimized) and for each interoperability requirement. For each element determine the maturity level of your mission architecture by moving across each row and matching your current state. During this step you should also note the characteristics of each requirement where the requirement/element maturity is less than your desired level (Ex., your interoperability level is at 'repeatable'; you need to be at 'managed'). Note that mission-specific architectures will have different goals for each element maturity level based on the operational needs or organizational policy of the mission architecture.
