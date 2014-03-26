@@ -26,7 +26,7 @@ Help the United States Government increase our ability to share information resp
 
 This project is a collaborative work (“open source”). Government employees, contractors, developers, and members of the public are encouraged to improve the project by contributing. Tell us what works, what doesn’t, and help us improve the content. This can be done in two ways:
 
-*Easy*
+**Easy**
 
 1. Click the "Improve this content" button in the top right corner of any page.
 2. Make changes as you would normally.
@@ -35,7 +35,7 @@ This project is a collaborative work (“open source”). Government employees, 
 
 *Note: You will need to [create a free GitHub account](https://github.com/signup/free) if you do not already have one.*
 
-*Advanced*
+**Advanced**
 
 1. Configure Git by using this [basic tutorial](https://help.github.com/articles/set-up-git) or by downloading the [GitHub for Mac](http://mac.github.com/)/[GitHub for Windows](http://windows.github.com/) and optionally, a [Markdown](http://daringfireball.net/projects/markdown/) editor like [Markdownpad](http://markdownpad.com) (for Windows) or [Mou](http://mouapp.com/) (for Mac).
 2. [Fork](https://help.github.com/articles/fork-a-repo) the project.
