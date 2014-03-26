@@ -26,23 +26,23 @@ Help the United States Government increase our ability to share information resp
 
 This project is a collaborative work (“open source”). Government employees, contractors, developers, and members of the public are encouraged to improve the project by contributing. Tell us what works, what doesn’t, and help us improve the content. This can be done in two ways:
 
-**Easy**
-1. Click the “Improve this content” button in the top right corner of any page.
+*Easy*
+
+1. Click the "Improve this content" button in the top right corner of any page.
 2. Make changes as you would normally.
-3. Click “Submit.”
-4. Your change should appear, once approved. Approval won’t be immediate; the admins might need a little time to review your suggestion. 
+3. Click "Submit."
+4. Your change should appear, once approved.
 
-*Note: You will need to create a free GitHub account if you do not already have one.*
+*Note: You will need to [create a free GitHub account](https://github.com/signup/free) if you do not already have one.*
 
-**Advanced**
-1. Configure Git by using this basic tutorial or by downloading the GitHub for Mac/GitHub for Windows and optionally, a 2. Markdown editor like Markdownpad (for Windows) or Mou (for Mac).
-3. Fork the project.
-4. Make changes as you would normally using the tools installed in step #1.
-5. Push the changes back to your fork.
-6. Submit a pull request to this repository.
-7. Your change should appear once it’s approved.
+*Advanced*
 
-*Note: All contributors retain the original copyright to their contribution, but by contributing to this project, you grant a world-wide, royalty-free, perpetual, irrevocable, non-exclusive, transferable license to all users under the terms of the license(s) under which this project is distributed.*
+1. Configure Git by using this [basic tutorial](https://help.github.com/articles/set-up-git) or by downloading the [GitHub for Mac](http://mac.github.com/)/[GitHub for Windows](http://windows.github.com/) and optionally, a [Markdown](http://daringfireball.net/projects/markdown/) editor like [Markdownpad](http://markdownpad.com) (for Windows) or [Mou](http://mouapp.com/) (for Mac).
+2. [Fork](https://help.github.com/articles/fork-a-repo) the project.
+3. Make changes as you would normally using the tools installed in step #1.
+4. Push the changes back to your fork.
+5. Submit a pull request to this repository.
+6. Your change should appear once it's approved.
 
 ###Can I use the project’s content or source code elsewhere?
 
