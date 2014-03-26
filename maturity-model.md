@@ -18,21 +18,17 @@ After completing the previous steps and determining which interoperability eleme
 
 The following graphic is provided to show the relationship between the Maturity Model Assessment, the Architecture Artifact Build, the Reference Architecture Template Activity, and the building of the Interoperability Roadmap, as well as inputs and outputs of each activity. The Interoperability Roadmap build activity will also require the interoperability goals for the specific mission architectures since the maturity level (ad-hoc, repeatable, enhanced, managed, or optimized) goals will be different for each mission architecture based on its needs.
 
-![](20140326%20maturity%20model%20for%20github%20(1)_files/image001.png)
-
 Figure 1.
+
+![](images/model1.png)
 
 It would be advantageous to interoperability efforts if this roadmap/plan were maintained to monitor progress towards interoperability goals and to coordinate plans across departments and agencies. Options for monitoring include: 1) [ISA IPC via the Senior Architect's Forum](http://ise.gov/ise-governance), 2) [OMB via E-Gov Initiative](http://www.whitehouse.gov/omb/e-gov), 3) the [Federal CIO Council](https://cio.gov/).
 
-   
-
-   
-
-# Interoperability Maturity Model
+## Interoperability Maturity Model
 
 The Interoperability Maturity Model addresses five domains of interoperability. Each domain is supported by applicable questions and maturity model assessment criteria. Each row in the maturity models represents a functional area within the domain. Each column represents a different stage of maturity. Interdependencies between functional areas exist but the goal is to assess a system independently for each functional area.
 
-Business Domain Interoperability Objectives
+### Business Domain Interoperability Objectives
 
 The purpose of the business domain is to ensure that the system, program or reference architecture aligns to an organization's mission requirements and clearly describes the scope, goals, and purpose of the architecture. The business domain typically describes:
 
@@ -46,7 +42,7 @@ The purpose of the business domain is to ensure that the system, program or refe
 
 * Planned achievement of capabilities by timeframes and what constrains/policies apply.
 
-Interoperability Objectives
+### Interoperability Objectives
 
 Interoperability objectives of the business domain include:
 
@@ -60,15 +56,13 @@ Interoperability objectives of the business domain include:
 
 * Capturing information sharing requirements, constraints, and rules between partners.
 
-Assessment
+### Assessment
 
 The Business Domain maturity model is divided into functions or process groups (rows) and maturity levels (column). The maturity model is followed by several supporting questions.
 
 _Image model2 here_
 
-   
-
-Data Domain Interoperability Objective
+### Data Domain Interoperability Objective
 
 The purpose of the data domain is to describe what data is available to promote the common identification, use, and appropriate sharing of data/information across the government. It provides guidance for consistently describing, categorizing, and sharing data, and facilitates the discovery and exchange of information across boundaries. It describes structure (logical and schema) of the data/information at a level necessary for users to understand both what types of data/information is available and the data's structure. The semantic meaning of the data/information should also be addressed within this domain in order to enable the interoperability of the data/information to be exchanged. This domain typically describes how:
 
@@ -82,7 +76,7 @@ The purpose of the data domain is to describe what data is available to promote 
 
 * Standardization of information exchange between information sharing partners.
 
-Interoperability Objectives
+### Interoperability Objectives
 
 Interoperability objectives of the data domain include:
 
@@ -98,15 +92,13 @@ Interoperability objectives of the data domain include:
 
 * Describing principles, roles, and responsibilities for data management and stewardship.
 
-Assessment
+### Assessment
 
 The Data Domain maturity model is divided into functions or process groups (rows) and maturity levels (column). The maturity model is followed by several supporting questions.
 
 _Image model3 here._
 
-   
-
-Applications and Services Domain Objectives
+### Applications and Services Domain Objectives
 
 The applications and services domain describes the technical services supporting the common activities used for discovering, identifying, distributing, protecting, and managing the data/information that external users require. It should:
 
@@ -114,7 +106,7 @@ The applications and services domain describes the technical services supporting
 
 * Describe the relationships between systems, applications, and interfaces
 
-Interoperability Objectives
+### Interoperability Objectives
 
 Interoperability objectives of the applications and services domain include:
 
@@ -140,19 +132,17 @@ Interoperability objectives of the applications and services domain include:
 
 * Specifying the provider and user roles and responsibilities with respect to application/service lifecycle (from development to operations and maintenance, to retirement)
 
-Assessment
+### Assessment
 
 The Applications and Services Domain maturity model is divided into functions or process groups (rows) and maturity levels (column). The maturity model is followed by several supporting questions.
 
 _Image: model4_
 
-   
-
-SECURITY Domain Interoperability Objectives
+## SECURITY Domain Interoperability Objectives
 
 The purpose of security domain is to describe the security policies and considerations required for external users that need to interface and get access to the data/information. The Interoperability Maturity Matrix uses [the Federal Identity, Credential and Access Management (ICAM) Maturity Model](http://www.idmanagement.gov/documents/icam-maturity-model) to assess the progress of an agency's business processes and technical capabilities against the ICAM segment architecture, as related to interoperability within the security domain.
 
-Interoperability Objectives
+### Interoperability Objectives
 
 Interoperability objectives of the security domain include:
 
@@ -180,7 +170,7 @@ Interoperability objectives of the security domain include:
 
 * Describing data/information access audit methods or standards, include the lifecycle for the storage of the audit data
 
-Performance Domain Interoperability Objectives
+### Performance Domain Interoperability Objectives
 
 The purpose of the performance domain is to provide linkage to investments or activities and an organization's strategic vision. This domain typically:
 
@@ -190,15 +180,15 @@ The purpose of the performance domain is to provide linkage to investments or ac
 
 * Provides a high-level overview of recommended metrics to be considered that will measure the successes of the architecture (inputs, outputs, and outcomes).
 
-Interoperability Objectives
+### Interoperability Objectives
 
 Interoperability objectives of the performance domain include:
 
-* Define performance goals that align to applicable [policy, guidance and laws](http://project-interoperability.github.io/authorities/)
+* Define performance goals that align to applicable [policy, guidance and laws](/authorities/)
 
 * Review investments and ensure they clearly incorporate [interoperability requirements and adhere to relevant performance goals](http://www.ise.gov/ise-performance-management)
 
-Assessment
+### Assessment
 
 The Performance Domain maturity model is divided into functions or process groups (rows) and maturity levels (column). The maturity model is followed by several supporting questions.
 
