@@ -27,20 +27,20 @@ Help the United States Government increase our ability to share information resp
 This project is a collaborative work (“open source”). Government employees, contractors, developers, and members of the public are encouraged to improve the project by contributing. Tell us what works, what doesn’t, and help us improve the content. This can be done in two ways:
 
 **Easy**
-1.	Click the “Improve this content” button in the top right corner of any page.
-2.	Make changes as you would normally.
-3.	Click “Submit.”
-4.	Your change should appear, once approved. Approval won’t be immediate; the admins might need a little time to review your suggestion. 
+1. Click the “Improve this content” button in the top right corner of any page.
+2. Make changes as you would normally.
+3. Click “Submit.”
+4. Your change should appear, once approved. Approval won’t be immediate; the admins might need a little time to review your suggestion. 
 
 *Note: You will need to create a free GitHub account if you do not already have one.*
 
 **Advanced**
-1.	Configure Git by using this basic tutorial or by downloading the GitHub for Mac/GitHub for Windows and optionally, a Markdown editor like Markdownpad (for Windows) or Mou (for Mac).
-2.	Fork the project.
-3.	Make changes as you would normally using the tools installed in step #1.
-4.	Push the changes back to your fork.
-5.	Submit a pull request to this repository.
-6.	Your change should appear once it’s approved.
+1. Configure Git by using this basic tutorial or by downloading the GitHub for Mac/GitHub for Windows and optionally, a 2. Markdown editor like Markdownpad (for Windows) or Mou (for Mac).
+3. Fork the project.
+4. Make changes as you would normally using the tools installed in step #1.
+5. Push the changes back to your fork.
+6. Submit a pull request to this repository.
+7. Your change should appear once it’s approved.
 
 *Note: All contributors retain the original copyright to their contribution, but by contributing to this project, you grant a world-wide, royalty-free, perpetual, irrevocable, non-exclusive, transferable license to all users under the terms of the license(s) under which this project is distributed.*
 
@@ -70,7 +70,7 @@ Yes! Simply follow the “advanced” instructions above to submit a pull reques
 
 ###How long will I have to wait to get a response to my suggested change (i.e., pull request)?
 
-Release cycles vary from repo to repo. See the [README file](/readme.md) within the repo where you submitted a pull request to see how often code pushes and updates are done.
+Release cycles vary from repo to repo. See the [README file](/readme.md/) within the repo where you submitted a pull request to see how often code pushes and updates are done.
 
 ##What are some examples of projects currently using these interoperability tools?
 
