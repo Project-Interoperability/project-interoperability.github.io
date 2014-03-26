@@ -44,11 +44,11 @@ The impetus of the template is the domain topic areas that contain elements and 
 
 ## Business/Mission Domain Section
 
-**Alignment with Project Interoperability Tools and Resources: **Operational Capabilities, Exchange Patterns.
+**Alignment with Project Interoperability Tools and Resources:** Operational Capabilities, Exchange Patterns.
 
 **Overview:** Describe the lines of business and organizations and the operational concept to be achieved. Provide the overall vision in a strategic context for the capabilities and a high level scope. Provide a hierarchy of capabilities along with description of the capabilities. Show the planned achievement of the capabilities by time frames and what constrains/policies are being applied.
 
-**Objectives of the Architecture: **Describe how the architecture supports the operational enterprise data and makes it discoverable and searchable, i.e., registry or service inventory. For example: The Identity and Access Management initiative provides enterprise information through the use of a global registry to support naming standards and federated access to support other mission capabilities.
+**Objectives of the Architecture:** Describe how the architecture supports the operational enterprise data and makes it discoverable and searchable, i.e., registry or service inventory. For example: The Identity and Access Management initiative provides enterprise information through the use of a global registry to support naming standards and federated access to support other mission capabilities.
 
 Business Models, Diagrams, and Flows:
 
@@ -94,11 +94,11 @@ Other Business/Mission Domain Considerations:
 
 ## Data Domain Section
 
-**Alignment with Project Interoperability Tools and Resources: **Operational Capabilities, Technical Standards, Technical Capabilities, Exchange Patterns, Exchange Specifications.
+**Alignment with Project Interoperability Tools and Resources:** Operational Capabilities, Technical Standards, Technical Capabilities, Exchange Patterns, Exchange Specifications.
 
-**Overview: **Describe what data is available to users and the structure (logical and schema) of the data/information at a level necessary for users to understand both what types of data/information is available and the structure of it.
+**Overview:** Describe what data is available to users and the structure (logical and schema) of the data/information at a level necessary for users to understand both what types of data/information is available and the structure of it.
 
-**Objective of the Architecture: **Describe how the data domain is structured, what standards are used, how data/information can be exchanged, and the data lifecycle description in order for external users to be able to both have access and be able to use the data/information.
+**Objective of the Architecture:** Describe how the data domain is structured, what standards are used, how data/information can be exchanged, and the data lifecycle description in order for external users to be able to both have access and be able to use the data/information.
 
 Data Considerations:
 
@@ -156,9 +156,9 @@ Other Data Domain Considerations:
 
 **Alignment with Project Interoperability Toolsand Resources:** Operational Capabilities, Technical Standards, Technical Capabilities, Exchange Patterns, Exchange Specifications.
 
-**Overview: **Describe the technical services supporting the common activities used for discovering, identifying, distributing, protecting, and managing the data/ information needed by external users. Provide any applicable service standards, application architecture approaches such as SOA, or other information required to interact with the applications/service within the domain.
+**Overview:** Describe the technical services supporting the common activities used for discovering, identifying, distributing, protecting, and managing the data/ information needed by external users. Provide any applicable service standards, application architecture approaches such as SOA, or other information required to interact with the applications/service within the domain.
 
-**Objective of the Architecture: **Capture the specifications and functional requirements of the applications/service to the level necessary for external application developers can interface with application/services available to externals.
+**Objective of the Architecture:** Capture the specifications and functional requirements of the applications/service to the level necessary for external application developers can interface with application/services available to externals.
 
 Application/Service Environment Considerations:
 
@@ -206,11 +206,11 @@ Mobile Application/Service Implementation Considerations:
 
 ## Infrastructure Domain Section
 
-**Alignment with Project Interoperability Tools and Resources: **Technical Capabilities
+**Alignment with Project Interoperability Tools and Resources:** Technical Capabilities
 
-**Overview: **Describe what types of voice, data, mobile, and video networks will be required to host the IT systems/applications and to transport associate, data, images, and conversations, as well as "what type of physical infrastructure is needed to support the networks" (e.g., buildings, server rooms, points of presence, and other equipment).
+**Overview:** Describe what types of voice, data, mobile, and video networks will be required to host the IT systems/applications and to transport associate, data, images, and conversations, as well as "what type of physical infrastructure is needed to support the networks" (e.g., buildings, server rooms, points of presence, and other equipment).
 
-Objective of the Architecture: Describe the infrastructure interfaces, i.e., protocols, and interface standards, and networks making external domains and applications/ services interoperable. Infrastructure Interfaces:
+**Objective of the Architecture:** Describe the infrastructure interfaces, i.e., protocols, and interface standards, and networks making external domains and applications/ services interoperable. Infrastructure Interfaces:
 
 * Document physical and logical interfaces. (I1)
 
@@ -238,9 +238,9 @@ Specify any network category and considerations or standards for each of the fab
 
 **Alignment with Project Interoperability Tools and Resources:** Operational Capabilities, Technical Standards, Technical Capabilities, Exchange Patterns, Exchange Specifications.
 
-**Overview: **Describe the security policies and considerations required of the architecture that external users will need to interface and get access to the data/information. Provide the necessary security controls to ensure the protection of data/information as it is exchanged within and across security fabrics.
+**Overview:** Describe the security policies and considerations required of the architecture that external users will need to interface and get access to the data/information. Provide the necessary security controls to ensure the protection of data/information as it is exchanged within and across security fabrics.
 
-**Objective of the Architecture: **Describe how the proper security controls are to be used by the architecture to ensure data/information protection and allowing access by externals.
+**Objective of the Architecture:** Describe how the proper security controls are to be used by the architecture to ensure data/information protection and allowing access by externals.
 
 General Security Considerations:
 
@@ -272,9 +272,9 @@ Other Security Domain Considerations:
 
 **Alignment with Project Interoperability Tools and Resources:** Operational Capabilities
 
-**Overview: **Describe the metrics necessary to determine whether the implementation of the architecture is successful. Describe also how the metrics will determine the utility of the resulting architecture.
+**Overview:** Describe the metrics necessary to determine whether the implementation of the architecture is successful. Describe also how the metrics will determine the utility of the resulting architecture.
 
-**Objective of the Architecture: **Provide metrics to be used to measure quantitatively how well the architecture is performing and/or how interoperable, as measured by the interoperability requirements within the Information Interoperability Framework.
+**Objective of the Architecture:** Provide metrics to be used to measure quantitatively how well the architecture is performing and/or how interoperable, as measured by the interoperability requirements within the Information Interoperability Framework.
 
 Architecture Interoperability Performance Considerations:
 
