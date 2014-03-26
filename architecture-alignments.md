@@ -6,13 +6,13 @@ filename: architecture-alignments.md
 title: Alignment to Architecture Frameworks
 ---
 
-Project Interoperability recognizes that mission partners are aligned with different architecture frameworks, though the underlying concepts and principles may be very similar. These frameworks are referenced here so that ISE participants can understand how the interoperability requirements can be put in context of existing enterprise architecture efforts. Project Interoperability provides a higher-level mechanism to align reference architectures. Overviews of common architecture frameworks used by ISE constituents are provided in the Architecture Framework Descriptions.
+Project Interoperability recognizes that mission partners are aligned with different architecture frameworks, though the underlying concepts and principles may be very similar. These frameworks are referenced here so that ISE participants can understand how the interoperability requirements can be put in context of existing enterprise architecture efforts. Project Interoperability provides a higher-level mechanism to align reference architectures. Overviews of common architecture frameworks used by ISE constituents are provided in the [Architecture Framework descriptions](/architecture-frameworks/).
 
 The intent of the Project Interoperabilityis not to drive convergence of architecture frameworks to one, but to foster alignment among these frameworks from an ISE interoperability perspective. OMB's [Common Approach to Federal Enterprise Architecture (FEA)](http://www.whitehouse.gov/omb/e-gov/fea) is available, and U.S. Government mission partners are expected to align with the domains it outlines. Project Interoperability normalizes architectural framework differences by describing interoperability needs, requirements, and alignment in the context of the domains in the Common Approach. This meets the needs of ISE stakeholders and core participants.
 
 ## Common Approach (CA) – Architecture Domains
 
-The architecture domains articulated in the Common Approach to Federal Enterprise Architecture essentially describe the architecture domains used to support a variety of business and technical needs. Those domains are business, data, performance, security, infrastructure, and applications and systems.
+The architecture domains articulated in the [Common Approach to Federal Enterprise Architecture](http://www.whitehouse.gov/omb/e-gov/fea) essentially describe the architecture domains used to support a variety of business and technical needs. Those domains are business, data, performance, security, infrastructure, and applications and systems.
 
 ## Alignment of Common Approach to Project Interoperability
 
