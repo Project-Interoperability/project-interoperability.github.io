@@ -1,6 +1,6 @@
 # Project Interoperability
 
-IMPORTANT: THIS IS A DRAFT. LARGE PARTS OF THIS PROJECT ARE UNDER CONSTRUCTION AND MAY REFER BACK TO PROJECT OPEN DATA THROUGHOUT THE MONTH OF MARCH.
+IMPORTANT: THIS IS A DRAFT. ALSO: Most of the admins primarily use the web interface, so we push commits VERY frequently. If you click "watch," for this repo, you will receive a lot of email notifications per day.
 
 ## Problem this Solves
 
