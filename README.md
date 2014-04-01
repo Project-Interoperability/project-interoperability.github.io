@@ -1,6 +1,6 @@
 # [Project Interoperability](http://project-interoperability.github.io)
 
-IMPORTANT: THIS IS A DRAFT. ALSO: Most of the admins primarily use the web interface, so we push commits VERY frequently. If you click "watch," for this repo, you will receive a lot of email notifications per day.
+IMPORTANT: This is a collaborative draft project. If you have questions or concerns, please [create an issue](https://github.com/Project-Interoperability/project-interoperability.github.io/issues).
 
 ## Problem this Solves
 
