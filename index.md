@@ -38,7 +38,7 @@ These are the top tools for building information interoperability.
 
 2-5 [Reference Architecture Template](/ref-arch-template/) is a data-agnostic template for an architecture, which provides a common vocabulary for implementation
 
-2-6 [Attribute Exchange](/attribute-exchange/) - 
+2-6 [Attribute Exchange](/attribute-exchange/) is the ability of two or more organizations to make access-control-related information on its users available to each other programmatically and on demand
 
 2-7 [Identity and Access Management](/idam/) is a diverse portfolio of services and processes that provides identity management, authentication, and authorization. 
 
