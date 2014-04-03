@@ -1,8 +1,8 @@
 ---
 published: true
-permalink: /business-ref-arch/
+permalink: /ref-arch-business/
 layout: default
-filename: business-ref-arch.md
+filename: ref-arch-business.md
 title: Business/Mission Domain Section Reference Architecture Template
 ---
 
