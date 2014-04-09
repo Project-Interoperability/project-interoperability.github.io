@@ -60,15 +60,15 @@ The Business Domain maturity model is divided into functions or process groups (
 
 #### Business Process Definition
 
-* **Stage: Ad hoc: **Formalized definitions of the business processes do not exist.
+* **Stage: Ad hoc:** Formalized definitions of the business processes do not exist.
 
-* **Stage: Repeatable: **Definitions of the business processes are formalized and understood within the organization.
+* **Stage: Repeatable:** Definitions of the business processes are formalized and understood within the organization.
 
 * **Stage: Enhanced:** The formalized definitions of the business processes are understood by external partners.
 
 * **Stage: Managed:** Internal and external partners understand the various roles within the business process through manual workflows.
 
-* **Stage: Optimized: **All internal and external partners understand the various roles within the business process through automated workflows. The business process definitions are improved as necessary through monitoring feedback from current processes and to better serve the organization's particular needs.
+* **Stage: Optimized:** All internal and external partners understand the various roles within the business process through automated workflows. The business process definitions are improved as necessary through monitoring feedback from current processes and to better serve the organization's particular needs.
 
 #### Business Process Models
 
@@ -86,13 +86,13 @@ The Business Domain maturity model is divided into functions or process groups (
 
 * **Stage: Ad hoc: **An ISA does not exist.
 
-* **Stage: Repeatable: **The ISA documents the purpose, scope, and authorized users of the data exchanges.
+* **Stage: Repeatable:** The ISA documents the purpose, scope, and authorized users of the data exchanges.
 
 * **Stage: Enhanced:** The ISA is understood by all users who are involved in the data exchanges and can be manually provided to authorized users.
 
-* **Stage:** **Managed: **The ISA is available online to authorized users and compliance is manually monitored.
+* **Stage: Managed:** The ISA is available online to authorized users and compliance is manually monitored.
 
-* **Stage:** **Optimized:** Compliance to the ISA is automated. Metrics are collected and used to enhance interoperability across agencies.
+* **Stage: Optimized:** Compliance to the ISA is automated. Metrics are collected and used to enhance interoperability across agencies.
 
 ### Data Domain Interoperability Objective
 
