@@ -18,7 +18,7 @@ The following graphic is provided to show the relationship between the Maturity 
 
 Figure 1.
 
-![](/images/model1.png)
+![maturity model table](/images/model1.png)
 
 It would be advantageous to interoperability efforts if this roadmap/plan were maintained to monitor progress towards interoperability goals and to coordinate plans across departments and agencies. Options for monitoring include: 1) [ISA IPC via the Senior Architect's Forum](http://ise.gov/ise-governance), 2) [OMB via E-Gov Initiative](http://www.whitehouse.gov/omb/e-gov), 3) the [Federal CIO Council](https://cio.gov/).
 
@@ -226,9 +226,55 @@ Interoperability objectives of the applications and services domain include:
 
 The Applications and Services Domain maturity model is divided into functions or process groups (rows) and maturity levels (column). The maturity model is followed by several supporting questions.
 
-_Image: model4_
+#### Business Service Models
 
-## SECURITY Domain Interoperability Objectives
+* **Stage: Ad hoc:** Formalized business service models that depict information flows, relationships, and dependencies between services are not defined.
+
+* **Stage: Repeatable:** N/A
+
+* **Stage: Enhanced:** Business service models are defined by a modeling standard and are aligned to applicable policy, guidance, and laws. The models employ repeatable exchange patterns.
+
+* **Stage: Managed:** N/A
+
+* **Stage:** **Optimized:** The formalized business service models are available online to authorized users.
+
+#### Service Discovery
+
+* **Stage: Ad hoc:** Service is not discoverable.
+
+* **Stage: Repeatable:** Service has undergone agency publication process, and is discoverable and accessible within the agency.
+
+* **Stage: Enhanced:** Service is discoverable and accessible by authorized users.
+
+* **Stage: Managed:** N/A
+
+* **Stage: Optimized:** Service is discoverable and accessible by authorized external users through an online service registration and discovery mechanism.
+
+#### Service Delivery Method
+
+* **Stage: Ad hoc:** Data exchange occurs physically, by telephone, or by email.
+
+* **Stage: Repeatable:** Data is exchanged by a system-specific service with mostly automated pushes and pulls.
+
+* **Stage:** **Enhanced:** Data is exchanged through an agency-wide service with entirely automated pushes and pulls.
+
+* **Stage:** **Managed:** The method of data exchange is configurable to operate with any system using a community-adopted proprietary format with entirely automated pushes and pulls.
+
+* **Stage:** **Optimized:** The method of data exchange is configurable to operate with any system using an open standard with entirely automated pushes and pulls.
+
+#### Service Level Agreements (SLAs)
+
+* **Stage: Ad hoc:** No SLA
+
+* **Stage: Repeatable:** N/A
+
+* **Stage: Enhanced:** The SLA exists and includes requirements for service availability, serviceability, performance, operation, as well as the roles and responsibilities between the service provider and service consumer to deliver and maintain the service. Compliance of the SLA is not monitored.
+
+* **Stage:** **Managed:** The SLA includes the standard/ specification that addresses any interoperability considerations or constraints that affect implementation of the services. Compliance of the SLA is manually monitored.
+
+* **Stage: Optimized:** The SLA includes the standard/ specification that addresses any interoperability considerations or constraints that affect implementation of the services. Compliance monitoring of the SLA is automated.
+
+## Security Domain Interoperability Objectives
 
 The purpose of security domain is to describe the security policies and considerations required for external users that need to interface and get access to the data/information. The Interoperability Maturity Matrix uses [the Federal Identity, Credential and Access Management (ICAM) Maturity Model](http://www.idmanagement.gov/documents/icam-maturity-model) to assess the progress of an agency's business processes and technical capabilities against the ICAM segment architecture, as related to interoperability within the security domain.
 
