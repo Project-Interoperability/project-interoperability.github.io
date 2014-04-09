@@ -84,7 +84,7 @@ The Business Domain maturity model is divided into functions or process groups (
 
 #### Information Sharing Agreement
 
-* **Stage: Ad hoc: **An ISA does not exist.
+* **Stage: Ad hoc:** An ISA does not exist.
 
 * **Stage: Repeatable:** The ISA documents the purpose, scope, and authorized users of the data exchanges.
 
@@ -128,7 +128,65 @@ Interoperability objectives of the data domain include:
 
 The Data Domain maturity model is divided into functions or process groups (rows) and maturity levels (column). The maturity model is followed by several supporting questions.
 
-_Image model3 here._
+#### Data Exchange
+
+* **Stage: Ad hoc:** Business context is applied to the data. Organization stores and manages defined, semi-defined, and undefined data for use by internal services and processes.
+
+* **Stage:** **Repeatable: ** N/A
+
+* **Stage:** **Enhanced:** Organization stores and manages defined, semi-defined, and undefined data for use by internal services and processes.
+
+* **Stage:** **Managed: ** N/A
+
+* **Stage:** **Optimized:** Data is exchanged across agencies and missions using open standards.
+
+#### Structural Metadata Definition  
+
+* **Stage: Ad hoc: ** The data structure is defined.
+
+* **Stage: Repeatable: ** Standards consistently define the data structure. Some automated data structuring and manual record-level tagging exists.
+
+* **Stage:** **Enhanced:** A consistent, agency-adopted format with mostly automated structuring and manual record-level tagging of the data exists.
+
+* **Stage:** **Managed:** Data tagging is semi-automated at the attribute-level with a community-adopted metadata format.
+
+* **Stage:** **Optimized:** Smart data tagged at the attribute-level with open metadata standards.
+
+#### Data Asset Discovery
+
+* **Stage: Ad hoc: ** Basic dataset-wide search capability exists.
+
+* **Stage:** **Repeatable:** Basic system-wide search. Business context is applied to the data so it is discoverable within the agency.
+
+* **Stage:** **Enhanced:** Basic search of data assets that is configurable to federate from any system using a specific agency-adopted service contract.
+
+* **Stage:** **Managed:** Advanced search of data assets that is configurable to federate from any system using a community-adopted service contract.
+
+* **Stage:** **Optimized:** Advanced search of data assets that is configurable to federate, is discoverable, available, and accessible across agencies and missions by using open standards.
+
+#### Exception Handling 
+
+* **Stage: Ad hoc: ** Exceptions are solely handled manually.
+
+* **Stage:** **Repeatable: ** N/A
+
+* **Stage:** **Enhanced:** The system semi-automatically resolves the majority of exceptions.
+
+* **Stage:** **Managed: ** N/A
+
+* **Stage:** **Optimized:** The system automatically resolves the majority of exceptions.
+
+#### Security and Privacy
+
+* **Stage: Ad hoc: ** Security and privacy achieved through isolation of systems and implementing current regulatory mandates or laws.
+
+* **Stage: Repeatable:** Supporting policies identified and under consideration.
+
+* **Stage: Enhanced:** Supporting policies in process of development and implementation.
+
+* **Stage: Managed:** Security and privacy is documented by consistent supporting policies, which are mostly implemented.
+
+* **Stage: Optimized:** Security and privacy is documented by consistent supporting policies, which are implemented.
 
 ### Applications and Services Domain Objectives
 
