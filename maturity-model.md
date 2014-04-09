@@ -132,9 +132,9 @@ The Data Domain maturity model is divided into functions or process groups (rows
 
 * **Stage: Ad hoc:** Business context is applied to the data. Organization stores and manages defined, semi-defined, and undefined data for use by internal services and processes.
 
-* **Stage:** **Repeatable: ** N/A
+* **Stage: Repeatable: ** N/A
 
-* **Stage:** **Enhanced:** Organization stores and manages defined, semi-defined, and undefined data for use by internal services and processes.
+* **Stage: Enhanced:** Organization stores and manages defined, semi-defined, and undefined data for use by internal services and processes.
 
 * **Stage:** **Managed: ** N/A
 
