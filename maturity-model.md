@@ -132,19 +132,19 @@ The Data Domain maturity model is divided into functions or process groups (rows
 
 * **Stage: Ad hoc:** Business context is applied to the data. Organization stores and manages defined, semi-defined, and undefined data for use by internal services and processes.
 
-* **Stage: Repeatable: ** N/A
+* **Stage: Repeatable:** N/A
 
 * **Stage: Enhanced:** Organization stores and manages defined, semi-defined, and undefined data for use by internal services and processes.
 
-* **Stage:** **Managed: ** N/A
+* **Stage:** **Managed:** N/A
 
 * **Stage:** **Optimized:** Data is exchanged across agencies and missions using open standards.
 
 #### Structural Metadata Definition  
 
-* **Stage: Ad hoc: ** The data structure is defined.
+* **Stage: Ad hoc:** The data structure is defined.
 
-* **Stage: Repeatable: ** Standards consistently define the data structure. Some automated data structuring and manual record-level tagging exists.
+* **Stage: Repeatable:** Standards consistently define the data structure. Some automated data structuring and manual record-level tagging exists.
 
 * **Stage:** **Enhanced:** A consistent, agency-adopted format with mostly automated structuring and manual record-level tagging of the data exists.
 
@@ -154,7 +154,7 @@ The Data Domain maturity model is divided into functions or process groups (rows
 
 #### Data Asset Discovery
 
-* **Stage: Ad hoc: ** Basic dataset-wide search capability exists.
+* **Stage: Ad hoc:** Basic dataset-wide search capability exists.
 
 * **Stage:** **Repeatable:** Basic system-wide search. Business context is applied to the data so it is discoverable within the agency.
 
@@ -166,19 +166,19 @@ The Data Domain maturity model is divided into functions or process groups (rows
 
 #### Exception Handling 
 
-* **Stage: Ad hoc: ** Exceptions are solely handled manually.
+* **Stage: Ad hoc:** Exceptions are solely handled manually.
 
-* **Stage:** **Repeatable: ** N/A
+* **Stage:** **Repeatable:** N/A
 
 * **Stage:** **Enhanced:** The system semi-automatically resolves the majority of exceptions.
 
-* **Stage:** **Managed: ** N/A
+* **Stage:** **Managed:** N/A
 
 * **Stage:** **Optimized:** The system automatically resolves the majority of exceptions.
 
 #### Security and Privacy
 
-* **Stage: Ad hoc: ** Security and privacy achieved through isolation of systems and implementing current regulatory mandates or laws.
+* **Stage: Ad hoc:** Security and privacy achieved through isolation of systems and implementing current regulatory mandates or laws.
 
 * **Stage: Repeatable:** Supporting policies identified and under consideration.
 
