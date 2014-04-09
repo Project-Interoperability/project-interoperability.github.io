@@ -328,4 +328,14 @@ Interoperability objectives of the performance domain include:
 
 The Performance Domain maturity model is divided into functions or process groups (rows) and maturity levels (column). The maturity model is followed by several supporting questions.
 
-_Image model5 here_
+#### Metrics
+
+* **Stage: Ad hoc:** Formalized performance metrics that provide direct line of sight between strategic planning and the investment review process do not exist.
+
+* **Stage:** **Repeatable:** Formalized performance metrics exist and align with strategic goals of organization as well as to applicable policy, guidance, and laws.
+
+* **Stage: Enhanced:** Formalized performance metrics that identify common performance elements across investments or activities exists.
+
+* **Stage:** **Managed:** N/A
+
+* **Stage:** **Optimized:** Formalized performance metrics are used to inform gap analysis of interoperability requirements and adhere to relevant performance goals.
