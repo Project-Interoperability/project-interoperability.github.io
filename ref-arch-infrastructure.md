@@ -1,9 +1,9 @@
 ---
 published: true
-permalink: /ref-arch-data/
+permalink: /ref-arch-infrastructure/
 layout: default
-filename: ref-arch-data.md
-title: Data Domain Reference Architecture Template
+filename: ref-arch-infrastructure.md
+title: Infrastructure Domain Reference Architecture Template
 ---
 
 **Alignment with Project Interoperability Tools and Resources:** Technical Capabilities
