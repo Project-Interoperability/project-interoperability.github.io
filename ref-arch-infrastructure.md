@@ -6,6 +6,8 @@ filename: ref-arch-infrastructure.md
 title: Infrastructure Domain Reference Architecture Template
 ---
 
+The reference architecture (RA) templates are designed to aid the development of reference architecture artifacts to support interoperability. To learn more about the purpose, structure, method, and how to use these templates, visit the main [Reference Architecture Template](/ref-arch-template) page.
+
 **Alignment with Project Interoperability Tools and Resources:** Technical Capabilities
 
 **Overview:** Describe what types of voice, data, mobile, and video networks will be required to host the IT systems/applications and to transport associate, data, images, and conversations, as well as "what type of physical infrastructure is needed to support the networks" (e.g., buildings, server rooms, points of presence, and other equipment).
