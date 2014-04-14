@@ -1,9 +1,9 @@
 ---
 published: true
-permalink: /exchange-pattern-components/
+permalink: /interoperability-components/
 layout: default
-filename: exchange-pattern-components.md
-title: Exchange Pattern Components
+filename: interoperability-components.md
+title: Interoperability Components
 ---
 
 *Visit the [Exchange Patterns](/exchange-patterns.md) page.*
