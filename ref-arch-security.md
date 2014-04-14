@@ -6,6 +6,8 @@ filename: ref-arch-security.md
 title: Security Domain Reference Architecture Template
 ---
 
+The reference architecture (RA) templates are designed to aid the development of reference architecture artifacts to support interoperability. To learn more about the purpose, structure, method, and how to use these templates, visit the main [Reference Architecture Template](/ref-arch-template) page.
+
 **Alignment with Project Interoperability Tools and Resources:** Operational Capabilities, Technical Standards, Technical Capabilities, Exchange Patterns, Exchange Specifications.
 
 **Overview:** Describe the security policies and considerations required of the architecture that external users will need to interface and get access to the data/information. Provide the necessary security controls to ensure the protection of data/information as it is exchanged within and across security fabrics.
