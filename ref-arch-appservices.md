@@ -6,6 +6,8 @@ filename: ref-arch-appservices.md
 title: Applications/Services Domain Reference Architecture Template
 ---
 
+The reference architecture (RA) templates are designed to aid the development of reference architecture artifacts to support interoperability. To learn more about the purpose, structure, method, and how to use these templates, visit the main [Reference Architecture Template](/ref-arch-template) page.
+
 **Alignment with Project Interoperability Toolsand Resources:** Operational Capabilities, Technical Standards, Technical Capabilities, Exchange Patterns, Exchange Specifications.
 
 **Overview:** Describe the technical services supporting the common activities used for discovering, identifying, distributing, protecting, and managing the data/ information needed by external users. Provide any applicable service standards, application architecture approaches such as SOA, or other information required to interact with the applications/service within the domain.
