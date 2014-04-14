@@ -6,6 +6,8 @@ filename: ref-arch-business.md
 title: Business/Mission Domain Section Reference Architecture Template
 ---
 
+The reference architecture (RA) templates are designed to aid the development of reference architecture artifacts to support interoperability. To learn more about the purpose, structure, method, and how to use these templates, visit the main [Reference Architecture Template](/ref-arch-template) page.
+
 **Alignment with Project Interoperability Tools and Resources:** Operational Capabilities, Exchange Patterns.
 
 **Overview:** Describe the lines of business and organizations and the operational concept to be achieved. Provide the overall vision in a strategic context for the capabilities and a high level scope. Provide a hierarchy of capabilities along with description of the capabilities. Show the planned achievement of the capabilities by time frames and what constrains/policies are being applied.
