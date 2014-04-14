@@ -6,6 +6,8 @@ filename: ref-arch-performance.md
 title: Performance Domain Reference Architecture Template
 ---
 
+The reference architecture (RA) templates are designed to aid the development of reference architecture artifacts to support interoperability. To learn more about the purpose, structure, method, and how to use these templates, visit the main [Reference Architecture Template](/ref-arch-template) page.
+
 **Alignment with Project Interoperability Tools and Resources:** Operational Capabilities
 
 **Overview:** Describe the metrics necessary to determine whether the implementation of the architecture is successful. Describe also how the metrics will determine the utility of the resulting architecture.
