@@ -10,7 +10,7 @@ The reference architecture (RA) template is designed to aid the development of r
 
 The RA template contains an overview of the interoperability goals for each CA domain and the objectives of the artifacts within the domain. Within each domain listed, the RA template provides an overview of the information to be included in each artifact, and instructions on how to develop each interoperability artifact. Each domain is divided into subsets of the domain: for example, the CA business domain is divided into business processes; business models, mission exchange processes, diagrams and flows, other considerations, etc.
 
-In addition, the RA template has been integrated with the Architecture Framework Alignment Grid) with mnemonics mapping each item in the template to the applicable artifact reference in the Grid. When used in conjunction with the Architecture Framework Alignment Grid, the architecture framework can be updated to include interoperability in each domain.
+In addition, the RA template has been integrated with the [Architecture Framework Alignment Grid](/architecture-grid) with mnemonics mapping each item in the template to the applicable artifact reference in the Grid. When used in conjunction with the Architecture Framework Alignment Grid, the architecture framework can be updated to include interoperability in each domain.
 
 Annually, OMB will receive business and technology architecture information from each department or agency in the form of a high-level, integrated description of the agency's IT-related strategic goals, business objectives, and enabling IT capabilities to include roadmaps. By leveraging the interoperability baseline provided by the Enterprise Architecture Maturity Measurement Template, OMB can more easily understand the departments' and agencies' progress towards integrating interoperability requirements into their existing architectures while improving their abilities to fulfill strategic priorities.
 
@@ -36,7 +36,7 @@ The Reference Architecture Template provides the key elements, aligned to the Co
 
 ## How to Use this Template
 
-The Common Approach is divided into topic areas within each domain in order to further aid the reference architecture builders in bringing in the right resource expertise when needed. The elements and concepts spelled out are not meant to be exhaustive in nature but used as a guide in building out mission specific reference architectures to be more interoperable within their larger enterprises. In addition, mnemonics are used in this template that map back to the Architecture Framework Alignment Grid as an aid in generating the required architecture artifacts.
+The Common Approach is divided into topic areas within each domain in order to further aid the reference architecture builders in bringing in the right resource expertise when needed. The elements and concepts spelled out are not meant to be exhaustive in nature but used as a guide in building out mission specific reference architectures to be more interoperable within their larger enterprises. In addition, mnemonics are used in this template that map back to the [Architecture Framework Alignment Grid](/architecture-grid) as an aid in generating the required architecture artifacts.
 
 Each domain section has "Overview," "Objective of the Architecture," and "Key Focus Areas" explanation paragraphs that apply specifically to the domain section. The purpose of the paragraphs is to give guidance as to context to be focused on when developing the reference architectures within each of the domains.
 
