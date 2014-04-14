@@ -48,5 +48,5 @@ The impetus of the template is the domain topic areas that contain elements and 
 * [Business/Mission Domain Section Reference Architecture Template](/ref-arch-business)
 * [Data Domain Reference Architecture Template](/ref-arch-data)
 * [Performance Domain Reference Architecture Template](/ref-arch-performance)
-* [Security Domain Reference Architecture Template](ref-arch-security)
+* [Security Domain Reference Architecture Template](/ref-arch-security)
 * [Infrastructure Domain Reference Architecture Template](/ref-arch-infrastructure)
