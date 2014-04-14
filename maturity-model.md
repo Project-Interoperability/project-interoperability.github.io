@@ -10,7 +10,7 @@ title: Maturity Model
 
 Evaluate your mission reference architecture and interoperability architecture artifacts developed against the ISE maturity model. The ISE maturity model is broken down by [FEAF](http://en.wikipedia.org/wiki/Federal_enterprise_architecture) common approach domains (business, data, applications and services, security, infrastructure, and performance) with characteristics established for each level of interoperability (adhoc, repeatable, enhanced, managed, and optimized) and for each interoperability requirement. For each element determine the maturity level of your mission architecture by moving across each row and matching your current state. During this step you should also note the characteristics of each requirement where the requirement/element maturity is less than your desired level (Ex., your interoperability level is at 'repeatable'; you need to be at 'managed'). Note that mission-specific architectures will have different goals for each element maturity level based on the operational needs or organizational policy of the mission architecture.
 
-### Build a Plan/Roadmap to Achieve Desired Interoperability Level for Each Requirement in the Maturity Model
+## Build a Plan/Roadmap to Achieve Desired Interoperability Level for Each Requirement in the Maturity Model
 
 After completing the previous steps and determining which interoperability elements should be incorporated into each enterprise architecture domain, build a plan and roadmap that leads to interoperability at the applicable maturity level for your mission- specific EA. The plan and roadmap should address each interoperability requirement where improvement is deemed necessary. The roadmap should consider the availability of both intra- and inter-agency shared services which will require coordination.
 
@@ -26,7 +26,7 @@ It would be advantageous to interoperability efforts if this roadmap/plan were m
 
 The Interoperability Maturity Model addresses five domains of interoperability. Each domain is supported by applicable questions and maturity model assessment criteria. Each row in the maturity models represents a functional area within the domain. Each column represents a different stage of maturity. Interdependencies between functional areas exist but the goal is to assess a system independently for each functional area.
 
-### Business Domain Interoperability Objectives
+## Business Domain Interoperability Objectives
 
 The purpose of the business domain is to ensure that the system, program or reference architecture aligns to an organization's mission requirements and clearly describes the scope, goals, and purpose of the architecture. The business domain typically describes:
 
@@ -58,7 +58,7 @@ Interoperability objectives of the business domain include:
 
 The Business Domain maturity model is divided into functions or process groups (rows) and maturity levels (column). The maturity model is followed by several supporting questions.
 
-#### Business Process Definition
+### Business Process Definition
 
 * **Stage: Ad hoc:** Formalized definitions of the business processes do not exist.
 
@@ -70,7 +70,7 @@ The Business Domain maturity model is divided into functions or process groups (
 
 * **Stage: Optimized:** All internal and external partners understand the various roles within the business process through automated workflows. The business process definitions are improved as necessary through monitoring feedback from current processes and to better serve the organization's particular needs.
 
-#### Business Process Models
+### Business Process Models
 
 * **Stage: Ad Hoc:** Formalized business process models that describe the information sharing flows are not defined.
 
@@ -82,7 +82,7 @@ The Business Domain maturity model is divided into functions or process groups (
 
 * **Stage: Optimized:** The formalized business process models use a modeling standard (e.g., BPMN, WS-BPEL, IDEF0, or XPDL 2.1) and share and reuse processes. The models are available online to all authorized users.
 
-#### Information Sharing Agreement
+### Information Sharing Agreement
 
 * **Stage: Ad hoc:** An ISA does not exist.
 
@@ -94,7 +94,7 @@ The Business Domain maturity model is divided into functions or process groups (
 
 * **Stage: Optimized:** Compliance to the ISA is automated. Metrics are collected and used to enhance interoperability across agencies.
 
-### Data Domain Interoperability Objective
+## Data Domain Interoperability Objective
 
 The purpose of the data domain is to describe what data is available to promote the common identification, use, and appropriate sharing of data/information across the government. It provides guidance for consistently describing, categorizing, and sharing data, and facilitates the discovery and exchange of information across boundaries. It describes structure (logical and schema) of the data/information at a level necessary for users to understand both what types of data/information is available and the data's structure. The semantic meaning of the data/information should also be addressed within this domain in order to enable the interoperability of the data/information to be exchanged. This domain typically describes how:
 
@@ -128,7 +128,7 @@ Interoperability objectives of the data domain include:
 
 The Data Domain maturity model is divided into functions or process groups (rows) and maturity levels (column). The maturity model is followed by several supporting questions.
 
-#### Data Exchange
+### Data Exchange
 
 * **Stage: Ad hoc:** Business context is applied to the data. Organization stores and manages defined, semi-defined, and undefined data for use by internal services and processes.
 
@@ -140,7 +140,7 @@ The Data Domain maturity model is divided into functions or process groups (rows
 
 * **Stage:** **Optimized:** Data is exchanged across agencies and missions using open standards.
 
-#### Structural Metadata Definition  
+### Structural Metadata Definition  
 
 * **Stage: Ad hoc:** The data structure is defined.
 
@@ -152,7 +152,7 @@ The Data Domain maturity model is divided into functions or process groups (rows
 
 * **Stage:** **Optimized:** Smart data tagged at the attribute-level with open metadata standards.
 
-#### Data Asset Discovery
+### Data Asset Discovery
 
 * **Stage: Ad hoc:** Basic dataset-wide search capability exists.
 
@@ -164,7 +164,7 @@ The Data Domain maturity model is divided into functions or process groups (rows
 
 * **Stage:** **Optimized:** Advanced search of data assets that is configurable to federate, is discoverable, available, and accessible across agencies and missions by using open standards.
 
-#### Exception Handling 
+### Exception Handling 
 
 * **Stage: Ad hoc:** Exceptions are solely handled manually.
 
@@ -176,7 +176,7 @@ The Data Domain maturity model is divided into functions or process groups (rows
 
 * **Stage:** **Optimized:** The system automatically resolves the majority of exceptions.
 
-#### Security and Privacy
+### Security and Privacy
 
 * **Stage: Ad hoc:** Security and privacy achieved through isolation of systems and implementing current regulatory mandates or laws.
 
@@ -188,7 +188,7 @@ The Data Domain maturity model is divided into functions or process groups (rows
 
 * **Stage: Optimized:** Security and privacy is documented by consistent supporting policies, which are implemented.
 
-### Applications and Services Domain Objectives
+## Applications and Services Domain Objectives
 
 The applications and services domain describes the technical services supporting the common activities used for discovering, identifying, distributing, protecting, and managing the data/information that external users require. It should:
 
@@ -226,7 +226,7 @@ Interoperability objectives of the applications and services domain include:
 
 The Applications and Services Domain maturity model is divided into functions or process groups (rows) and maturity levels (column). The maturity model is followed by several supporting questions.
 
-#### Business Service Models
+### Business Service Models
 
 * **Stage: Ad hoc:** Formalized business service models that depict information flows, relationships, and dependencies between services are not defined.
 
@@ -238,7 +238,7 @@ The Applications and Services Domain maturity model is divided into functions or
 
 * **Stage:** **Optimized:** The formalized business service models are available online to authorized users.
 
-#### Service Discovery
+### Service Discovery
 
 * **Stage: Ad hoc:** Service is not discoverable.
 
@@ -250,7 +250,7 @@ The Applications and Services Domain maturity model is divided into functions or
 
 * **Stage: Optimized:** Service is discoverable and accessible by authorized external users through an online service registration and discovery mechanism.
 
-#### Service Delivery Method
+### Service Delivery Method
 
 * **Stage: Ad hoc:** Data exchange occurs physically, by telephone, or by email.
 
@@ -262,7 +262,7 @@ The Applications and Services Domain maturity model is divided into functions or
 
 * **Stage:** **Optimized:** The method of data exchange is configurable to operate with any system using an open standard with entirely automated pushes and pulls.
 
-#### Service Level Agreements (SLAs)
+### Service Level Agreements (SLAs)
 
 * **Stage: Ad hoc:** No SLA
 
@@ -328,7 +328,7 @@ Interoperability objectives of the performance domain include:
 
 The Performance Domain maturity model is divided into functions or process groups (rows) and maturity levels (column). The maturity model is followed by several supporting questions.
 
-#### Metrics
+### Metrics
 
 * **Stage: Ad hoc:** Formalized performance metrics that provide direct line of sight between strategic planning and the investment review process do not exist.
 
