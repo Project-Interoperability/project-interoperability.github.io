@@ -167,3 +167,5 @@ Figure 7
 ## Federated Queries Pattern
 
 A federated query is an implementation of the orchestration pattern, as explained above in the Coordination Patterns, where a user is able to access multiple repositories based on a single query. Figure 8 shows a simple federated query pattern. This pattern is one of many published [service oriented architecture patterns](http://soapatterns.org/) normalized by an international community of architects and practitioners.
+
+![](/images/exchange-patterns8.png)
