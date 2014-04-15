@@ -10,6 +10,7 @@ title: ISE Interoperability Framework Components
 ![](/images/common-profile2.png)
 
 For a detailed description of Exchange Patterns, *Visit the [Exchange Patterns](/exchange-patterns) page.*
+
 ## Operational Capabilities
 
 ISE Operational Capabilities are the reference implementations of functional and technical standards and services coupled with the appropriate policy, process, training, outreach, and other infrastructure components. Operational Capabilities provide the mission context or need that drives other components of the ISE interoperability framework. The alignment to the mission need is critical to ensure the operational and technical investments for interoperability also enable mission requirements. To support the mission need, Operational Capabilities may contain elements that include, but are not limited to, operational policy, requirement definitions, use cases, business cases, implementation guidance, sustenance strategies, and any inter-/intra-agency memorandums of understanding (MOUs). These combined elements validate the need for technical capabilities and standards to exist and interoperate across the ISE, at the same time, providing top-down and bottom-up traceability.
