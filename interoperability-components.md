@@ -3,7 +3,7 @@ published: true
 permalink: /interoperability-components/
 layout: default
 filename: interoperability-components.md
-title: Interoperability Components
+title: ISE Interoperability Framework Components
 ---
 
 *Visit the [Exchange Patterns](/exchange-patterns) page.*
