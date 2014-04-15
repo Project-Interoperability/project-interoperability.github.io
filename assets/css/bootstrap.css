@@ -96,6 +96,22 @@ img {
   -ms-interpolation-mode: bicubic;
 }
 
+table {
+ border: 1px solid black;
+}
+
+th {
+ border: 1px solid black;
+ text-align: center;
+ font-weight: bold;
+ vertical-align:middle;
+}
+
+td {
+ border: 1px solid black;
+ vertical-align: top;
+}
+
 /* Google maps */
 #map_canvas img,
 .google-maps img {
