@@ -12,13 +12,13 @@ title: Table Drafts
 | | (A3) Describe the functions performed by the services and the service data flows among the service functions | | [SvcV-4 Services Functionality  Description](http://dodcio.defense.gov/dodaf20/dodaf20_services4.aspx) | | Interaction Matrix | Interface Catalogue | 
 | | (A4) Describe the details of the data flows being exchanged between services and the attributes of the exchanges | | [SvcV-6 Services Resource Flow Matrix](http://dodcio.defense.gov/dodaf20/dodaf20_services6.aspx) | | Service Sequence | Application Organization Matrix | 
 | | (A5) Describe the resource/data flows between operation activities; this will be transformed to the flows between services | | [OV-2: Operational Resource Flow Description](http://dodcio.defense.gov/dodaf20/dodaf20_ov2.aspx) | | | Application Role Matrix | 
-| | | | | | Application Function Matrix |
-| | | | | | Application Interface Diagram |
-| | | | | | Application Communication Diagram | 
-| | | | | | Application and User Diagrams | 
-| | | | | | Application Location Diagrams | 
-| | | | | | Process Application Diagram | 
-| | | | | | Application Use Case Diagrams | 
-| | | | | | Software Engineering Diagram | 
-| | | | | | Software Distribution Diagrams |
+| | | | | | | Application Function Matrix |
+| | | | | | | Application Interface Diagram |
+| | | | | | | Application Communication Diagram | 
+| | | | | | | Application and User Diagrams | 
+| | | | | | | Application Location Diagrams | 
+| | | | | | | Process Application Diagram | 
+| | | | | | | Application Use Case Diagrams | 
+| | | | | | | Software Engineering Diagram | 
+| | | | | | | Software Distribution Diagrams |
 | Developing service standards including service metadata, protocol standards, service oriented architecture, and standard APIs | (A6) Document the service standards to be used by the services and applications | Technical Standards Profile | [StdV-1 Standards Profile](http://dodcio.defense.gov/dodaf20/dodaf20_stdv1.aspx) |  | Relevant Standard Matrix | Application Function Matrix Application Interaction Matrix |
