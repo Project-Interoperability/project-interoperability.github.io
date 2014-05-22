@@ -6,8 +6,13 @@ filename: interoperability-components.md
 title: ISE Interoperability Framework Components
 ---
 
+## ISE Information Interoperability Framework
 
-![](/images/common-profile2.png)
+The ISE I2F describes the components that enable information sharing and interoperability within a given reference implementation. The components of the ISE I2F framework allow for practitioners to organize information that defines the scope of what needs to be considered to achieve interoperability between ISE participants. Through the use of this information, ISE participants are able to identify touch points for sharing and safeguarding information in motion; while encouraging the use of interoperability within the scope of enterprise architecture concepts that are, and driven by, an organization’s internal enterprise architecture framework.
+
+The ISE’s participants have recognized the need for integrated and interoperable solutions as a priority. Whereas the solution lifecycle once originated as an independent or a standalone agency requirement, it must now be developed with the enterprise view in mind. The components of the ISE I2F acts as building blocks to advance the enterprise view for sharing, standardization, and integration across ISE participants. The figure below highlights the key components of the ISE I2F.
+
+![](/images/Interoperability-Components.png)
 
 For a detailed description of Exchange Patterns, *Visit the [Exchange Patterns](/exchange-patterns) page.*
 
