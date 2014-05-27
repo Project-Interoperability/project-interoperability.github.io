@@ -1,9 +1,10 @@
 #document settings
 title: Project Interoperability
 desc: "Project Interoperability: A Start-Up Guide to Info Sharing"
-url: http://project-interoperability.github.io/
+url: /project-interoperability.github.io/
 repo_name: project-interoperability.github.io
 branch: master
+secure: optional
 
 #global settings, no need to change these
 root_url: http://project-interoperability.github.io/
