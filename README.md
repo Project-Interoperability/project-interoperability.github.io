@@ -18,8 +18,14 @@ We are the [Office of the Program Manager for the Information Sharing Environmen
 
 The [Standards Coordinating Council (SCC)](http://www.ise.gov/standards-coordinating-council) is an advisory group made up of standards organizations and industry associations (such as IJIS and OMG). The SCC is leading the operationalization of Project Interoperability, via two different types of communities:
 
-* Communities of Interest will drive mission-centric information sharing and safeguarding. Examples of communities of interest are “statewide and regional ISEs” or “cyber information sharing.”
-* Communities of Practice will collaborate with the communities of interest to achieve mission-focused goals of the ISE. Communities of practice will be oriented around functions and capabilities, such as FICAM or open standards.  
+* Communities of Interest will drive mission-centric information sharing and
+  safeguarding. Examples of communities of interest are “statewide and
+  regional ISEs” or “cyber information sharing.”
+* Communities of Practice will collaborate with the communities of interest
+  to achieve mission-focused goals of the ISE. Communities of practice will
+  be oriented around functions and capabilities, such as 
+  [FICAM](http://project-interoperability.github.io/idam/) or
+  open standards.  
 
 
 ## Where You Come In
