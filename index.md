@@ -22,6 +22,13 @@ We hope you help us improve and adopt this as a resource to build information in
 * [The presidential directives, policy documents, strategies, and agency guidelines that inform this project](/authorities)
 * To edit this content, click on "Help Improve this Content" at the top and bottom of every page. To learn how to make edits, check out [this guide to Markdown](http://guides.github.com/overviews/mastering-markdown/), the simple syntax this site is using. Questions or ideas worth discussing? Click on "Discuss" at the top of the page, or just open an issue in the repo.
 
+<h3>I2F Operationalization</h3>
+
+I2F is a national architecture framework designed to support IS&S the public safety and national security missions across all levels of government – Federal, State, Local, Tribal, and Territorial (FSLTT). Further, the operationalization of the I2F can be a valuable resource to encourage government and industry to make interoperability and collaboration a  primary concern with respect to any organizational change or system initiative. There will be certain perspectives from within the standards and information sharing space that SCC members will dispute.  Specifically those standards that are not widely adopted will require deliberation and consensus of the SCC.
+
+Consistent with the role of “Open Government”, enablement efforts need to be transparent in the execution of IS&S interoperability. Project Interoperability efforts will leverage the best practices for IS&S policy derived through interoperability exercises and reference implementations. This open government context is key to: assuring the best use of open standards among the mission and enablement communities; expressing best practices for how policy and governance works; the understanding that the missions own requirements; that the common interoperability standards and models are leveraged; and that significant collaboration across these communities is recognized as essential to the effective operationalization of the I2F. 
+
+
 ----------------
 
 ##2. Interoperability Tools
