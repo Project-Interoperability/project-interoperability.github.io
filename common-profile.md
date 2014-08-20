@@ -78,7 +78,6 @@ The content for these components are highly tailored based on the mission use ca
 
 * How to extend or reuse this specific exchange, without losing the semantic meaning of the content or compromising baked-in interoperability requirements
 * Description of applicable rules not enforced in the specification (and implementation guidance, if available, providing a clear explanation of how these rules need to be implemented when the exchange is implemented)
-* 
 
 #### Implementation Instance View
 
