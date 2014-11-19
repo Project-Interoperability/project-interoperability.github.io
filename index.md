@@ -51,7 +51,7 @@ These are the top tools for building information interoperability.
 
 2-8 [Exchange Patterns](/exchange-patterns/) provide generic solutions to help demonstrate a commonly occurring need for exchange of data or information between two or more partners. 
 
-2-9 [National Information Exchange Model (NIEM)](/niem/) is a community-driven, government-wide, standards-based approach to exchanging information. 
+2-9 [National Information Exchange Model (NIEM)](/niem/) is a community-driven, standards-based approach to exchanging information. 
 
 2-10 [ISE Standards Specifications Framework](/standards-specifications/) describes interoperable information exchange attributes beginning with standardized requirements and definitions. It includes the descriptive mechanics to develop components, and processes necessary to identify and normalize standards to achieve interoperability.
 
