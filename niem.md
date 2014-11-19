@@ -12,4 +12,4 @@ The [National Information Exchange Model (NIEM)](http://niem.gov) is the result 
 
 NIEM is also now on GitHub, and can be found at [NIEM.github.io](http://niem.github.io/), where interested parties can learn more and fork various repositories. 
 
-[NIEM Sharing Spot Image](https://cloud.githubusercontent.com/assets/6518236/5114855/74369546-700a-11e4-831a-ed01491d4e7f.png)
+![NIEM Sharing Spot Image](https://cloud.githubusercontent.com/assets/6518236/5114855/74369546-700a-11e4-831a-ed01491d4e7f.png)
