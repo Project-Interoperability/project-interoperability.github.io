@@ -11,3 +11,5 @@ The [National Information Exchange Model (NIEM)](http://niem.gov) is the result 
 [This video clip](https://www.niem.gov/news/Pages/niem-simplified.aspx) explains the basics about NIEM. If you want more detailed information about how you might use or contribute to NIEM, [start here](https://www.niem.gov/aboutniem/Pages/how-do-i-get-started.aspx).
 
 NIEM is also now on GitHub, and can be found at [NIEM.github.io](http://niem.github.io/), where interested parties can learn more and fork various repositories. 
+
+[NIEM Sharing Spot Image](https://cloud.githubusercontent.com/assets/6518236/5114855/74369546-700a-11e4-831a-ed01491d4e7f.png)
