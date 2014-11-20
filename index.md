@@ -69,3 +69,5 @@ Use cases of novel or best practices from agencies who are leading in open data 
 
 3-3 [Geospatial Interoperable Reference Architecture (GIRA)](http://www.ise.gov/blog/michael-howell/our-approach-geospatial-interoperability) is a framework for developing new geospatial system investments and aligning existing geospatial capabilities. The GIRA is in development, and will be available late summer 2014.
 
+3-4 [Maritime Information Sharing Environment(MISE)](https://github.com/ida-org/mise-demo). The MISE defines a low cost, implementable solution for maritime information sharing while providing mechanisms to mitigate associated legal and policy concerns. 
+
