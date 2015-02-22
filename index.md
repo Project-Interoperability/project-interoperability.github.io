@@ -12,7 +12,7 @@ IMPORTANT: THIS IS A DRAFT AND STILL UNDER CONSTRUCTION.
 
 Project Interoperability is a start-up guide for information interoperability.  The tools and resources presented here are in different levels of maturity, and some of them are even still drafts. They are made available here as a resource for improving information interoperability in and outside of government.
 
-Information interoperability is the ability to transfer and use information in a consistent, efficient way across multiple organizations and IT systems.  From a technical perspective, interoperability is developed through the consistent application of design principles and design standards to address a specific mission problem.
+Information interoperability is the ability to transfer and use information in a consistent, efficient way across multiple organizations and IT systems to accomplish operational missions.  From a technical perspective, interoperability is developed through the consistent application of design principles and design standards to address a specific mission problem.
 
 Information interoperability is important because it increases timely, responsible information sharing, can reduce costs and redundancy, and use best practices. These are all things that enhance decision making for government leaders, industry, and citizens.
 
